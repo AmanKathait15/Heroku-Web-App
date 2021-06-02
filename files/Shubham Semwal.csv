@@ -1,0 +1,999 @@
+index,name,date_time,message,sentiment_code,sentiment,polarity,Happy,Angry,Surprise,Sad,Fear,Emotion_code,Value
+0,Shubham Semwal,31/05/2021 12:37:42,took imodium would poop court poop court poop,0,neutral,0.00,0.0,0.0,0.25,0.0,0.75,0,0.75
+3,Shubham Semwal,31/05/2021 12:37:43,report liars liars deerhunter time move deerhunter soon liars start well,0,neutral,0.00,0,0,0,0,0,0,0.00
+7,Shubham Semwal,31/05/2021 12:37:43,firestarter maincourse pudding,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+9,Shubham Semwal,31/05/2021 12:37:43,idea holding jm rdfc rd oneway project dividers broken rains going get really bad,4,Very negative,-0.55,0.0,0.0,0.5,0.25,0.25,2,0.50
+11,Shubham Semwal,31/05/2021 12:37:44,seven seas rhye underrated,0,neutral,0.00,0,0,0,0,0,0,0.00
+15,Shubham Semwal,31/05/2021 12:37:44,digital transition locals,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+18,Shubham Semwal,31/05/2021 12:37:44,blogged cheered bed hobbit expect accidental sleeping occur see tomorrow,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+19,Shubham Semwal,31/05/2021 12:37:44,quot bonemans daughterquot ted dekker also looks good whatchu going,2,Very positive,0.70,0.5,0.0,0.0,0.0,0.5,0,0.50
+20,Shubham Semwal,31/05/2021 12:37:44,boss killed spymaster,3,negative,-0.20,0.0,0.0,1.0,0.0,0.0,2,1.00
+22,Shubham Semwal,31/05/2021 12:37:45,game gm sometimes even two giant screens living room enough,3,negative,-0.13,0.0,0.0,0.0,0.0,1.0,0,1.00
+23,Shubham Semwal,31/05/2021 12:37:45,women hoping dina pull williams sisters always contenders shreika back form yet,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+26,Shubham Semwal,31/05/2021 12:37:45,quot know baby real men dont floppy disks quot,1,positive,0.20,0.0,0.0,0.0,1.0,0.0,3,1.00
+28,Shubham Semwal,31/05/2021 12:37:45,kevinpm finally whitlam reference,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+29,Shubham Semwal,31/05/2021 12:37:45,roflol whos kid madonna green day comment rove,3,negative,-0.20,1.0,0.0,0.0,0.0,0.0,0,1.00
+31,Shubham Semwal,31/05/2021 12:37:46,taking cat put sleep tomorrow last night tonight,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+33,Shubham Semwal,31/05/2021 12:37:46,mission make trending topic day lots people board join,0,neutral,0.00,0.33,0.0,0.0,0.67,0.0,3,0.67
+36,Shubham Semwal,31/05/2021 12:37:46,yeah know saw bit one bodies left aquarium nice love little dudes,1,positive,0.23,1.0,0.0,0.0,0.0,0.0,0,1.00
+40,Shubham Semwal,31/05/2021 12:37:47,keep letting know fave characters episodes abnormals etc winners announced later,0,neutral,0.00,0.0,0.0,0.0,0.67,0.33,3,0.67
+41,Shubham Semwal,31/05/2021 12:37:47,utah fri beatlemania sat marc cohn ampitheater e pm listening amps,0,neutral,0.00,0,0,0,0,0,0,0.00
+42,Shubham Semwal,31/05/2021 12:37:47,ftw make trending topic yes bored,3,negative,-0.50,0.0,0.0,0.0,1.0,0.0,3,1.00
+43,Shubham Semwal,31/05/2021 12:37:47,cream cheese amp french fries sensational lmao,1,positive,0.42,0.0,0.0,1.0,0.0,0.0,2,1.00
+44,Shubham Semwal,31/05/2021 12:37:47,loved lost somebody wish chance say im sorry oh miss terribly,3,negative,-0.27,0.17,0.0,0.17,0.5,0.17,3,0.50
+45,Shubham Semwal,31/05/2021 12:37:47,met chris martin coldplay tweeeeet please,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+50,Shubham Semwal,31/05/2021 12:37:48,spent hundreds christmas gifts someone suppose buy u gift well amp recieve anything smh lolz,3,negative,-0.10,0.0,0.0,0.0,0.0,1.0,0,1.00
+51,Shubham Semwal,31/05/2021 12:37:48,talked bad behind strangers back via twitter find person twitter heshe replied u,3,negative,-0.37,0.0,0.0,0.0,1.0,0.0,3,1.00
+52,Shubham Semwal,31/05/2021 12:37:48,texted wife meant girlfriend mistake mean,3,negative,-0.31,0,0,0,0,0,0,0.00
+54,Shubham Semwal,31/05/2021 12:37:48,tried mixing peanut butter chocolate milk dont dont ever horrible thing,4,Very negative,-1.00,0.0,0.0,0.67,0.0,0.33,2,0.67
+55,Shubham Semwal,31/05/2021 12:37:48,used electric trimmer junk gotten sack skin caught teeth,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+59,Shubham Semwal,31/05/2021 12:37:49,wondered whether real figment imagination,1,positive,0.20,0.0,0.0,0.25,0.25,0.5,0,0.50
+61,Shubham Semwal,31/05/2021 12:37:49,cost cutting swtichoff ac fr half hr everyday office,3,negative,-0.32,0.0,0.0,1.0,0.0,0.0,2,1.00
+62,Shubham Semwal,31/05/2021 12:37:49,team sat batman batmanamp robin batman robin nightwing question batgirl lian harper pts tweet results go,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+63,Shubham Semwal,31/05/2021 12:37:49,streets empty nightmr visit luis potosi,3,negative,-0.10,0.0,0.0,0.0,1.0,0.0,3,1.00
+64,Shubham Semwal,31/05/2021 12:37:49,aww going go tomorrow,1,positive,0.30,0.0,0.0,0.0,0.0,1.0,0,1.00
+66,Shubham Semwal,31/05/2021 12:37:49,already gave new followers awesome,2,Very positive,0.57,0.0,0.0,0.5,0.0,0.5,0,0.50
+67,Shubham Semwal,31/05/2021 12:37:49,aloud say twice double celebration awesome enjoy,1,positive,0.47,0.33,0.0,0.67,0.0,0.0,2,0.67
+70,Shubham Semwal,31/05/2021 12:37:50,happy little things pissing today migraine need revisework hate everything today,3,negative,-0.06,0.2,0.2,0.2,0.4,0.0,3,0.40
+72,Shubham Semwal,31/05/2021 12:37:50,theyre canceling quot name earlquot unless tweet lot,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+74,Shubham Semwal,31/05/2021 12:37:50,day day day day day day day day day day day day day day day,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+77,Shubham Semwal,31/05/2021 12:37:50,game v marlins delayed looks like start meanwhile life brians abomination,3,negative,-0.40,0.0,0.0,0.0,0.5,0.5,0,0.50
+81,Shubham Semwal,31/05/2021 12:37:51,still number trending topic ohh love sooo much replies woo hoo get one andy amp bradie haha,1,positive,0.30,0.33,0.0,0.33,0.0,0.33,0,0.33
+82,Shubham Semwal,31/05/2021 12:37:51,getting shaun number trending topics,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+83,Shubham Semwal,31/05/2021 12:37:51,sway sway baby lt watchin angel lt soooo hot swoonah got hit,1,positive,0.25,0.0,0.5,0.0,0.5,0.0,0,0.00
+86,Shubham Semwal,31/05/2021 12:37:51,lots fun amazingly flexible itemhouse designer need mens hair opt deeper gameplay sim dating cop,1,positive,0.45,0.25,0.0,0.5,0.25,0.0,2,0.50
+88,Shubham Semwal,31/05/2021 12:37:52,first plane trip little one mos plane us please dont kick us,1,positive,0.03,0.0,0.0,0.67,0.33,0.0,2,0.67
+89,Shubham Semwal,31/05/2021 12:37:52,really want read melvin bs latest book sadly got enuff buy one signing get changed dinner,1,positive,0.07,0.0,0.0,0.5,0.0,0.5,0,0.50
+90,Shubham Semwal,31/05/2021 12:37:52,thanks seeking oh nice walk today us,1,positive,0.40,1.0,0.0,0.0,0.0,0.0,0,1.00
+91,Shubham Semwal,31/05/2021 12:37:52,free wifi apparently thats baaaaad,1,positive,0.23,1.0,0.0,0.0,0.0,0.0,0,1.00
+92,Shubham Semwal,31/05/2021 12:37:52,tonight got feeling unofficially saying goodbye hammond sketches got say quot live nyquot goodnights,1,positive,0.14,0.0,0.0,0.67,0.33,0.0,2,0.67
+94,Shubham Semwal,31/05/2021 12:37:52,people create prettier younger better looking avatars,1,positive,0.25,0.0,0.0,1.0,0.0,0.0,2,1.00
+95,Shubham Semwal,31/05/2021 12:37:52,think really tough attend twitter jk time,3,negative,-0.39,0.0,0.0,0.5,0.25,0.25,2,0.50
+100,Shubham Semwal,31/05/2021 12:37:53,laurie trending topic obviously jesus alive,1,positive,0.05,0,0,0,0,0,0,0.00
+103,Shubham Semwal,31/05/2021 12:37:53,believe smile someone friend stranger make two people feel good,1,positive,0.50,0.75,0.0,0.0,0.25,0.0,0,0.75
+104,Shubham Semwal,31/05/2021 12:37:53,quite shady arrogant times im str ward amp blunt,3,negative,-0.25,0.33,0.0,0.33,0.33,0.0,0,0.00
+108,Shubham Semwal,31/05/2021 12:37:54,twitterjail yesterday none came thru mind sent least,3,negative,-0.30,0.0,0.0,0.67,0.0,0.33,2,0.67
+109,Shubham Semwal,31/05/2021 12:37:54,sometimes forget boyfriend,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+110,Shubham Semwal,31/05/2021 12:37:54,great day thanks great organisers really great put many faces twitter friends,2,Very positive,0.62,0.56,0.11,0.11,0.22,0.0,0,0.56
+111,Shubham Semwal,31/05/2021 12:37:54,deserve holiday baby sept worst time ever imagine job paying bills mouths need hol,4,Very negative,-1.00,0.0,0.0,0.4,0.4,0.2,0,0.20
+113,Shubham Semwal,31/05/2021 12:37:54,time machine go back time stop self watching spectacular video ughhhhhhh,1,positive,0.30,0.0,0.0,0.33,0.0,0.67,0,0.67
+116,Shubham Semwal,31/05/2021 12:37:54,everywhere else tastes bland,3,negative,-0.17,0.5,0.0,0.0,0.5,0.0,0,0.00
+118,Shubham Semwal,31/05/2021 12:37:55,receding hairlines amp braids never good look,3,negative,-0.35,0.5,0.0,0.0,0.0,0.5,0,0.50
+120,Shubham Semwal,31/05/2021 12:37:55,someone post link without related description maybe coz indescribable urge click every link pops,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+122,Shubham Semwal,31/05/2021 12:37:55,gets drunk get end night,3,negative,-0.50,0,0,0,0,0,0,0.00
+123,Shubham Semwal,31/05/2021 12:37:55,come people help little guys get trending topic breast cancer foundation helping,3,negative,-0.19,0.0,0.0,1.0,0.0,0.0,2,1.00
+126,Shubham Semwal,31/05/2021 12:37:55,lets make trending topic follow,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+127,Shubham Semwal,31/05/2021 12:37:56,blatently total rip mafia wars thats shit,3,negative,-0.10,0.0,0.0,1.0,0.0,0.0,2,1.00
+129,Shubham Semwal,31/05/2021 12:37:56,pensacola great event thanks karla,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+133,Shubham Semwal,31/05/2021 12:37:56,drawing delayed twitter downtime,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+134,Shubham Semwal,31/05/2021 12:37:56,interestig dream could remember back hurt beautiful sun time walk,1,positive,0.42,0.5,0.0,0.0,0.5,0.0,0,0.00
+135,Shubham Semwal,31/05/2021 12:37:56,changed rules entered life need creative day,1,positive,0.50,0.33,0.0,0.0,0.0,0.67,0,0.67
+136,Shubham Semwal,31/05/2021 12:37:56,disappeared top trending topics mean bigger chance winning,1,positive,0.17,0.0,0.0,0.5,0.0,0.5,0,0.50
+139,Shubham Semwal,31/05/2021 12:37:57,im officially entered next days good job forgot enter almost died best moment,2,Very positive,0.57,0.29,0.14,0.14,0.0,0.43,0,0.43
+140,Shubham Semwal,31/05/2021 12:37:57,new love affair enough time,1,positive,0.21,0.5,0.0,0.5,0.0,0.0,0,0.00
+141,Shubham Semwal,31/05/2021 12:37:57,reason get twitter days,0,neutral,0.00,0.33,0.0,0.0,0.67,0.0,3,0.67
+142,Shubham Semwal,31/05/2021 12:37:57,weekend means higher chance winning luck hates probably,1,positive,0.38,0.25,0.0,0.0,0.25,0.5,0,0.50
+143,Shubham Semwal,31/05/2021 12:37:57,needs larry get back w car,0,neutral,0.00,0,0,0,0,0,0,0.00
+146,Shubham Semwal,31/05/2021 12:37:57,rules atamp drools ohhhh yea,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+149,Shubham Semwal,31/05/2021 12:37:58,new iphone bc ill use money new one towards getn repairs car hit run,3,negative,-0.08,0.0,1.0,0.0,0.0,0.0,1,1.00
+151,Shubham Semwal,31/05/2021 12:37:58,wen justyn used ride huffy thamp sayres get bacon eggamp cheese pink lemonade amp pack blue skittles,3,negative,-0.05,0.0,0.0,0.0,1.0,0.0,3,1.00
+152,Shubham Semwal,31/05/2021 12:37:58,looks like thing get bloody iran check tweet persiankiwi,4,Very negative,-0.80,0.0,0.0,1.0,0.0,0.0,2,1.00
+153,Shubham Semwal,31/05/2021 12:37:58,kitty cats would live long,1,positive,0.04,0.0,0.0,0.0,0.0,1.0,0,1.00
+156,Shubham Semwal,31/05/2021 12:37:58,would spending sunday daughters bummer,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+157,Shubham Semwal,31/05/2021 12:37:59,would b comin visit australia instead end yr far away,1,positive,0.10,0.0,0.25,0.0,0.0,0.75,0,0.75
+158,Shubham Semwal,31/05/2021 12:37:59,week wud days cuz spent best week life frm th th got ovr flash,1,positive,0.45,0.33,0.0,0.33,0.0,0.33,0,0.33
+159,Shubham Semwal,31/05/2021 12:37:59,men experience pains childbirth must feel left see us puffing,0,neutral,0.00,0,0,0,0,0,0,0.00
+162,Shubham Semwal,31/05/2021 12:37:59,computer would get viruses,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+164,Shubham Semwal,31/05/2021 12:37:59,everybody would sych mean freaks people would think little wait lot,3,negative,-0.25,0.0,0.0,0.4,0.2,0.4,0,0.40
+170,Shubham Semwal,31/05/2021 12:38:00,would scouse living liverpool season ticket,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+171,Shubham Semwal,31/05/2021 12:38:00,would bf build something wn would much would gettinne younger,1,positive,0.10,0.0,0.0,0.0,0.0,1.0,0,1.00
+174,Shubham Semwal,31/05/2021 12:38:00,would stay seventeen forever,0,neutral,0.00,0.0,0.5,0.0,0.0,0.5,0,0.50
+175,Shubham Semwal,31/05/2021 12:38:00,would understand use twitter,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+177,Shubham Semwal,31/05/2021 12:38:00,wouldnt head student loans,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+180,Shubham Semwal,31/05/2021 12:38:01,hope looking forward session course review training,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+184,Shubham Semwal,31/05/2021 12:38:01,jazz sister mamie yusef lateef find audio week,0,neutral,0.00,0,0,0,0,0,0,0.00
+185,Shubham Semwal,31/05/2021 12:38:01,halifax mermaid sunny,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+186,Shubham Semwal,31/05/2021 12:38:01,everyone visit www short stack org,0,neutral,0.00,0,0,0,0,0,0,0.00
+187,Shubham Semwal,31/05/2021 12:38:01,amp run great lesson learnedont bring water w gas cost min easy,2,Very positive,0.62,0.25,0.0,0.25,0.5,0.0,3,0.50
+189,Shubham Semwal,31/05/2021 12:38:02,made someones life less miserable today windoze os x,4,Very negative,-0.58,0.0,0.0,0.0,0.5,0.5,0,0.50
+190,Shubham Semwal,31/05/2021 12:38:02,new love show wanted dancer little sucked,1,positive,0.15,1.0,0.0,0.0,0.0,0.0,0,1.00
+192,Shubham Semwal,31/05/2021 12:38:02,anyone know good tweeps iranian ground news lets get iranian themed meme going,2,Very positive,0.70,0.33,0.0,0.0,0.33,0.33,0,0.33
+193,Shubham Semwal,31/05/2021 12:38:02,trending th right twitter keep tweeting,1,positive,0.29,0.0,0.0,0.0,0.5,0.5,0,0.50
+195,Shubham Semwal,31/05/2021 12:38:02,working want see teamageddon alas blame internet connection,3,negative,-0.40,0.0,0.0,0.0,0.0,1.0,0,1.00
+196,Shubham Semwal,31/05/2021 12:38:02,still errors god forsaken fix lesson adopted another division terrible work,4,Very negative,-1.00,0.0,0.0,0.25,0.25,0.5,0,0.50
+198,Shubham Semwal,31/05/2021 12:38:02,recommend fun one fav tweeps,1,positive,0.30,1.0,0.0,0.0,0.0,0.0,0,1.00
+199,Shubham Semwal,31/05/2021 12:38:03,let humans scenes humans detracted robots,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+201,Shubham Semwal,31/05/2021 12:38:03,cycle rather long solar cycle everybody think p gnight bots cons assorted others,3,negative,-0.05,0.0,0.0,0.33,0.0,0.67,0,0.67
+206,Shubham Semwal,31/05/2021 12:38:03,second storyteller readingenacting chosen hes great,1,positive,0.40,1.0,0.0,0.0,0.0,0.0,0,1.00
+208,Shubham Semwal,31/05/2021 12:38:03,would need dental work,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+210,Shubham Semwal,31/05/2021 12:38:04,would get yrs maternity leave instead month left,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+212,Shubham Semwal,31/05/2021 12:38:04,money would matter would get new job leave home,1,positive,0.14,0.0,0.0,0.0,0.2,0.8,0,0.80
+213,Shubham Semwal,31/05/2021 12:38:04,ppl twitter ppl follow kuz need followers tweet public wut needs help,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+215,Shubham Semwal,31/05/2021 12:38:04,would hate descrimination wars fights like david archuleta sings keep imagining sad,4,Very negative,-0.65,0.0,0.0,0.2,0.6,0.2,3,0.60
+216,Shubham Semwal,31/05/2021 12:38:04,would sell fanta limn guate hahaha qu engase yo yo,1,positive,0.20,0.0,0.0,0.0,0.0,1.0,0,1.00
+217,Shubham Semwal,31/05/2021 12:38:04,time year would beach season,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+219,Shubham Semwal,31/05/2021 12:38:05,everyone would mean freaks would think little lot would puppy lol,1,positive,0.10,0.0,0.0,0.2,0.2,0.6,0,0.60
+220,Shubham Semwal,31/05/2021 12:38:05,sexy fun hot girl like would home alone fri night like would partying yo ass,1,positive,0.35,0.14,0.0,0.14,0.43,0.29,3,0.43
+221,Shubham Semwal,31/05/2021 12:38:05,would followers help us plz,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+223,Shubham Semwal,31/05/2021 12:38:05,say u needa fade sure hell gunna take looks like concludes,1,positive,0.50,0.0,0.0,0.5,0.0,0.5,0,0.50
+226,Shubham Semwal,31/05/2021 12:38:05,wish hard leaving middle,3,negative,-0.15,0.0,1.0,0.0,0.0,0.0,1,1.00
+227,Shubham Semwal,31/05/2021 12:38:06,updated cant activate itunes store activation connection time error,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+229,Shubham Semwal,31/05/2021 12:38:06,notes sync seems quite weird mac stores notes mobileme iphone sync notes wmac mobileme live update,3,negative,-0.18,0.0,0.0,0.0,0.5,0.5,0,0.50
+230,Shubham Semwal,31/05/2021 12:38:06,gs bing cashback renew fee tax nextworth net cost yet eligible,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+234,Shubham Semwal,31/05/2021 12:38:06,mummy told never wnted mummy ever live wid dad think confusing,3,negative,-0.08,0.0,0.0,0.5,0.25,0.25,2,0.50
+235,Shubham Semwal,31/05/2021 12:38:07,need learn wash dishes laundry always right,1,positive,0.29,0.0,0.0,0.0,0.5,0.5,0,0.50
+238,Shubham Semwal,31/05/2021 12:38:07,wish wearing roughin definitely staying cleaning bathrooms today,0,neutral,0.00,0.0,0.5,0.0,0.0,0.5,0,0.50
+239,Shubham Semwal,31/05/2021 12:38:07,beer pizza gf yes order,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+242,Shubham Semwal,31/05/2021 12:38:07,dammit smileloosen elton yes,0,neutral,0.00,0.0,0.5,0.0,0.5,0.0,0,0.00
+244,Shubham Semwal,31/05/2021 12:38:07,never win giveaways sad cry,3,negative,-0.45,0.0,0.0,0.0,1.0,0.0,3,1.00
+245,Shubham Semwal,31/05/2021 12:38:08,running tricky sometimes summer time got worry poison ivy amp oaks gon na keep technu handy,2,Very positive,0.60,0.5,0.0,0.0,0.5,0.0,0,0.00
+246,Shubham Semwal,31/05/2021 12:38:08,trending topics twitter,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+249,Shubham Semwal,31/05/2021 12:38:08,tuesdays want rough smack ass hold sex supppeerr turn,3,negative,-0.10,0.0,0.0,0.5,0.5,0.0,0,0.00
+251,Shubham Semwal,31/05/2021 12:38:08,oh lj loves find sad missed explosion online last night sickly also rocky horrord,3,negative,-0.40,0.25,0.0,0.0,0.75,0.0,3,0.75
+252,Shubham Semwal,31/05/2021 12:38:08,auto refresh option cant seem find one shake refresh time sad,3,negative,-0.50,0.0,0.0,0.0,1.0,0.0,3,1.00
+253,Shubham Semwal,31/05/2021 12:38:08,click log facebook anyone knows fix,0,neutral,0.00,0,0,0,0,0,0,0.00
+258,Shubham Semwal,31/05/2021 12:38:09,iphone sweet wonderful column view etc syncs columns groups sync read,2,Very positive,0.68,0.0,0.0,1.0,0.0,0.0,2,1.00
+259,Shubham Semwal,31/05/2021 12:38:09,rate limit fun computers behind nat using user burns api calls minutes,3,negative,-0.05,0.2,0.0,0.2,0.4,0.2,3,0.40
+261,Shubham Semwal,31/05/2021 12:38:09,given trying download new os authentication server,1,positive,0.14,0.0,0.0,0.0,0.0,1.0,0,1.00
+262,Shubham Semwal,31/05/2021 12:38:09,apps loading happened much trouble,3,negative,-0.20,0.0,0.0,0.0,0.5,0.5,0,0.50
+264,Shubham Semwal,31/05/2021 12:38:10,notice announce hurt everybody protest tehran pm still,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+265,Shubham Semwal,31/05/2021 12:38:10,least spammers help keep category alive suck spammers,3,negative,-0.10,0.0,0.0,1.0,0.0,0.0,2,1.00
+266,Shubham Semwal,31/05/2021 12:38:10,everyone getting hulk twitter im scared radiation,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+269,Shubham Semwal,31/05/2021 12:38:10,audio tape cnn played sounded like scene schindlers list krakow ghetto liquidated,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+272,Shubham Semwal,31/05/2021 12:38:10,freddo bars still p could egg spoon race health safety stopped,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+273,Shubham Semwal,31/05/2021 12:38:11,quot thumpsquot u used say something dumb wud hit u head used hurt,3,negative,-0.38,0.0,0.25,0.25,0.25,0.25,0,0.25
+278,Shubham Semwal,31/05/2021 12:38:11,brittony doesnt twitter jb concert quot took moneyquot lmfao,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+282,Shubham Semwal,31/05/2021 12:38:12,getting good nights sleep,2,Very positive,0.70,1.0,0.0,0.0,0.0,0.0,0,1.00
+283,Shubham Semwal,31/05/2021 12:38:12,havin get kar yesterday coogid,0,neutral,0.00,0,0,0,0,0,0,0.00
+284,Shubham Semwal,31/05/2021 12:38:12,dial see called wasnt caller id,0,neutral,0.00,0,0,0,0,0,0,0.00
+289,Shubham Semwal,31/05/2021 12:38:12,trending topic ohwellll,0,neutral,0.00,0,0,0,0,0,0,0.00
+291,Shubham Semwal,31/05/2021 12:38:13,im homeee tres fun maybe going watch movie suggestions,1,positive,0.30,0.33,0.0,0.33,0.0,0.33,0,0.33
+292,Shubham Semwal,31/05/2021 12:38:13,confessions fell love treated badly paying years,3,negative,-0.10,0.25,0.25,0.25,0.25,0.0,0,0.00
+296,Shubham Semwal,31/05/2021 12:38:13,still get almost brawl mcps etc yesterday brilliant stuff much learn,2,Very positive,0.55,0.5,0.5,0.0,0.0,0.0,0,0.00
+297,Shubham Semwal,31/05/2021 12:38:13,says bk open late even one nearby,3,negative,-0.15,0.0,0.0,0.33,0.33,0.33,0,0.33
+298,Shubham Semwal,31/05/2021 12:38:13,single handedly destroyed danity kane,3,negative,-0.07,0.0,0.0,0.0,0.0,1.0,0,1.00
+299,Shubham Semwal,31/05/2021 12:38:13,makes money gains popuarity spreading hate towards certain people,3,negative,-0.29,0.0,0.0,0.0,0.5,0.5,0,0.50
+303,Shubham Semwal,31/05/2021 12:38:14,david bowie starman thank much happy weekend,2,Very positive,0.80,1.0,0.0,0.0,0.0,0.0,0,1.00
+305,Shubham Semwal,31/05/2021 12:38:14,listening carrie wilkerson amp perry lawrence rock video magnetism webinar glad signed,1,positive,0.50,0.33,0.0,0.0,0.0,0.67,0,0.67
+309,Shubham Semwal,31/05/2021 12:38:15,torture condoned use done hearings trials learn,0,neutral,0.00,0,0,0,0,0,0,0.00
+311,Shubham Semwal,31/05/2021 12:38:15,tomsk raining wind direction changes constantly humidity seems like spring amp summer fighting town,0,neutral,0.00,0.2,0.0,0.2,0.6,0.0,3,0.60
+312,Shubham Semwal,31/05/2021 12:38:15,good metaphor democratic process truth better served transparency opaqueness private vote,1,positive,0.40,0.5,0.0,0.5,0.0,0.0,0,0.00
+317,Shubham Semwal,31/05/2021 12:38:16,highschool years get see friends days week even though months ago feels like ages,0,neutral,0.00,0.5,0.25,0.0,0.25,0.0,0,0.50
+318,Shubham Semwal,31/05/2021 12:38:16,wonderful ex boyfriend sad hes ex,1,positive,0.25,0.0,0.0,0.5,0.5,0.0,0,0.00
+319,Shubham Semwal,31/05/2021 12:38:16,playin uno life board games one else wanted play w fckin losers lol,1,positive,0.30,0.0,0.0,0.0,0.33,0.67,0,0.67
+320,Shubham Semwal,31/05/2021 12:38:16,skipping english class apparently spell,1,positive,0.03,0.0,0.0,1.0,0.0,0.0,2,1.00
+321,Shubham Semwal,31/05/2021 12:38:16,spice girls lolliipops collectable stickers amp gum middle iloved,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+322,Shubham Semwal,31/05/2021 12:38:16,smell christmas morning new plastic,1,positive,0.14,0.0,0.0,0.0,0.0,1.0,0,1.00
+323,Shubham Semwal,31/05/2021 12:38:16,first time heard quot looking lovequot mul ty,1,positive,0.25,0.0,0.0,1.0,0.0,0.0,2,1.00
+324,Shubham Semwal,31/05/2021 12:38:16,time fell n love time st met seriously mj still considered black,1,positive,0.00,0.33,0.33,0.0,0.33,0.0,0,0.00
+325,Shubham Semwal,31/05/2021 12:38:17,video highschool quot bill guy science guyquot bill bill bill bill bill bill bill bill lol,2,Very positive,0.80,0,0,0,0,0,0,0.00
+326,Shubham Semwal,31/05/2021 12:38:17,remember nothing yesterday,0,neutral,0.00,0,0,0,0,0,0,0.00
+328,Shubham Semwal,31/05/2021 12:38:17,wen biggest deadline worry science fair project wanted make volcano,2,Very positive,0.70,0.0,0.0,0.0,0.67,0.33,3,0.67
+329,Shubham Semwal,31/05/2021 12:38:17,going town shopping trip,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+331,Shubham Semwal,31/05/2021 12:38:17,used like job damn recession hate working bank,4,Very negative,-0.80,0.0,0.0,0.0,0.25,0.75,0,0.75
+332,Shubham Semwal,31/05/2021 12:38:17,used steal lego library,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+335,Shubham Semwal,31/05/2021 12:38:17,shotgun k dial god among men,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+336,Shubham Semwal,31/05/2021 12:38:17,kobe first ring wo shaq lol,2,Very positive,0.53,0.0,0.0,1.0,0.0,0.0,2,1.00
+337,Shubham Semwal,31/05/2021 12:38:18,old laptop used work well could talk til early weekend mornings msn amp,1,positive,0.10,0.0,0.0,0.0,0.0,1.0,0,1.00
+340,Shubham Semwal,31/05/2021 12:38:18,riots random vandalism lots thefts street resell miss old days rodney king,3,negative,-0.20,0.2,0.0,0.0,0.6,0.2,3,0.60
+341,Shubham Semwal,31/05/2021 12:38:18,two us life different better three us,1,positive,0.25,0.0,0.0,0.5,0.0,0.5,0,0.50
+342,Shubham Semwal,31/05/2021 12:38:18,used hnd power ranger toys w happy meals speakin power rangers want movie haha jk,1,positive,0.50,0.2,0.4,0.4,0.0,0.0,0,0.00
+344,Shubham Semwal,31/05/2021 12:38:18,modern liberalism misconstrued nd bible quot christ without crucifictionquot abstraction wo skin,1,positive,0.20,0,0,0,0,0,0,0.00
+345,Shubham Semwal,31/05/2021 12:38:19,headed office another seo amp analytics day early,1,positive,0.10,0.5,0.0,0.0,0.0,0.5,0,0.50
+346,Shubham Semwal,31/05/2021 12:38:19,got loading heavy old shit onto cellphone,3,negative,-0.10,0.0,0.0,0.33,0.33,0.33,0,0.33
+349,Shubham Semwal,31/05/2021 12:38:19,would pinch dads pocket buy lucky kids bag crisps till got caught,1,positive,0.33,0.67,0.0,0.0,0.0,0.33,0,0.67
+352,Shubham Semwal,31/05/2021 12:38:19,kate jon amp kate plus eight want give one mo,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+354,Shubham Semwal,31/05/2021 12:38:20,tweet like work naked one knows shit,3,negative,-0.10,0.0,0.0,0.5,0.0,0.5,0,0.50
+356,Shubham Semwal,31/05/2021 12:38:20,cuz fun im adict got followers follow,1,positive,0.30,1.0,0.0,0.0,0.0,0.0,0,1.00
+358,Shubham Semwal,31/05/2021 12:38:20,well really know actually guess fun,1,positive,0.17,0.25,0.0,0.75,0.0,0.0,2,0.75
+359,Shubham Semwal,31/05/2021 12:38:20,instant wom recommendations info work life forgetting odd chuckle love twitter ppl,1,positive,0.11,0.2,0.2,0.0,0.2,0.4,0,0.40
+361,Shubham Semwal,31/05/2021 12:38:20,rc taking much longer come sleep previous builds black screen anything seconds minute,3,negative,-0.04,0.0,0.0,0.5,0.0,0.5,0,0.50
+364,Shubham Semwal,31/05/2021 12:38:21,minutes according clock ready go,1,positive,0.20,1.0,0.0,0.0,0.0,0.0,0,1.00
+366,Shubham Semwal,31/05/2021 12:38:21,well folks thanks wonderful writechat got run thanks new follows see next sunday kp writing,1,positive,0.31,0.0,0.0,1.0,0.0,0.0,2,1.00
+368,Shubham Semwal,31/05/2021 12:38:21,day started day beautiful surroundings e amp k met lovely amp k boosters lost subway system,2,Very positive,0.68,0.67,0.0,0.0,0.17,0.17,0,0.67
+370,Shubham Semwal,31/05/2021 12:38:21,hoping xna announcement might shoehorned,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+373,Shubham Semwal,31/05/2021 12:38:22,women show ass titties online,0,neutral,0.00,0,0,0,0,0,0,0.00
+374,Shubham Semwal,31/05/2021 12:38:22,gave google money gave traffic,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+375,Shubham Semwal,31/05/2021 12:38:22,writing page letter girl delivering door enclosing bracelet wear away,0,neutral,0.00,0.0,0.5,0.5,0.0,0.0,0,0.00
+376,Shubham Semwal,31/05/2021 12:38:22,bris evening event tomorrow night sounds like place mention workshops pitty adel,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+377,Shubham Semwal,31/05/2021 12:38:22,delicious ones make fat,2,Very positive,1.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+378,Shubham Semwal,31/05/2021 12:38:22,jellies feel like im old wear em,1,positive,0.10,0.0,0.0,0.0,0.0,1.0,0,1.00
+380,Shubham Semwal,31/05/2021 12:38:22,love see old friends carver,1,positive,0.30,1.0,0.0,0.0,0.0,0.0,0,1.00
+381,Shubham Semwal,31/05/2021 12:38:22,beat people know friday jaljeera,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+383,Shubham Semwal,31/05/2021 12:38:22,im little disappointed expected quot lastfm killerquot,3,negative,-0.35,0.5,0.0,0.0,0.5,0.0,0,0.00
+384,Shubham Semwal,31/05/2021 12:38:22,pissing also still amazed incredibly rude condescending people java forums,3,negative,-0.30,0.0,0.25,0.5,0.0,0.25,2,0.50
+388,Shubham Semwal,31/05/2021 12:38:23,best right link jdedwards live gt,1,positive,0.47,0.0,0.0,0.5,0.0,0.5,0,0.50
+393,Shubham Semwal,31/05/2021 12:38:23,summer hours say day ends pm doesnt mean really get leave,3,negative,-0.06,0.4,0.0,0.4,0.0,0.2,0,0.20
+394,Shubham Semwal,31/05/2021 12:38:23,still power pechs block,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+395,Shubham Semwal,31/05/2021 12:38:24,says anybody fun kiss,1,positive,0.30,0.5,0.0,0.5,0.0,0.0,0,0.00
+396,Shubham Semwal,31/05/2021 12:38:24,jonas ps lt mitchel musso wish grove right,1,positive,0.29,0.0,0.0,0.0,0.0,1.0,0,1.00
+398,Shubham Semwal,31/05/2021 12:38:24,really good practical experience learnt lot still recovering busy week,1,positive,0.40,0.2,0.0,0.4,0.2,0.2,2,0.40
+399,Shubham Semwal,31/05/2021 12:38:24,modern warfare looks really nice,1,positive,0.40,0.5,0.0,0.5,0.0,0.0,0,0.00
+401,Shubham Semwal,31/05/2021 12:38:24,danna wattson think best,2,Very positive,1.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+402,Shubham Semwal,31/05/2021 12:38:24,attack girino jessicastrust partayboy almost cars gone checked doesfollow none zn,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+405,Shubham Semwal,31/05/2021 12:38:25,nose stud fell find looks like head amsterdam today get new one,1,positive,0.14,0.0,0.5,0.0,0.0,0.5,0,0.50
+409,Shubham Semwal,31/05/2021 12:38:25,jotted info fr blog linked last nite bought amp sold dtpr gain day thanx message u know u,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+410,Shubham Semwal,31/05/2021 12:38:25,flying window car run,0,neutral,0.00,0,0,0,0,0,0,0.00
+412,Shubham Semwal,31/05/2021 12:38:25,sushi night hangin allison tons fun,1,positive,0.30,1.0,0.0,0.0,0.0,0.0,0,1.00
+414,Shubham Semwal,31/05/2021 12:38:26,bank officially broke,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+415,Shubham Semwal,31/05/2021 12:38:26,hour ppcseosem jobs outsourcing skype us flexsin contact us,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+416,Shubham Semwal,31/05/2021 12:38:26,pre sale green day auckland thanks thanks,1,positive,0.07,1.0,0.0,0.0,0.0,0.0,0,1.00
+417,Shubham Semwal,31/05/2021 12:38:26,yard sale wow get buy beds sac warranty mac,1,positive,0.10,0.0,0.0,0.33,0.0,0.67,0,0.67
+419,Shubham Semwal,31/05/2021 12:38:26,payed want go home still raining outside,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+424,Shubham Semwal,31/05/2021 12:38:26,mani pedi denovo today offer good one year enjoy ladies,2,Very positive,0.55,0.67,0.0,0.0,0.0,0.33,0,0.67
+426,Shubham Semwal,31/05/2021 12:38:26,later scooter running good new sell,1,positive,0.28,1.0,0.0,0.0,0.0,0.0,0,1.00
+428,Shubham Semwal,31/05/2021 12:38:27,winner entry ft seat giveaway mad miss,4,Very negative,-0.62,0.0,0.5,0.0,0.5,0.0,0,0.00
+429,Shubham Semwal,31/05/2021 12:38:27,recover data ten month old computer crashed done dell practicing calming techniques bye bye data files,1,positive,0.05,0.25,0.0,0.5,0.0,0.25,2,0.50
+430,Shubham Semwal,31/05/2021 12:38:27,taken paycheck thats get tax spend liberal lol,2,Very positive,0.80,0.0,0.0,1.0,0.0,0.0,2,1.00
+433,Shubham Semwal,31/05/2021 12:38:27,neighbors recommendation crappier ever adding anyone ever listened spanish song,0,neutral,0.00,0.0,0.0,0.67,0.33,0.0,2,0.67
+434,Shubham Semwal,31/05/2021 12:38:27,los angeles international airport luggage x ray check line longer entire airport sad face,3,negative,-0.17,0.0,0.0,0.0,0.2,0.8,0,0.80
+436,Shubham Semwal,31/05/2021 12:38:28,park alvechurch hopwood,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+438,Shubham Semwal,31/05/2021 12:38:28,japanese culture thingy mr harrison lool awesome,1,positive,0.50,0.0,0.0,1.0,0.0,0.0,2,1.00
+443,Shubham Semwal,31/05/2021 12:38:28,guy calls phone see number real ohh phone working try tomorrow,1,positive,0.20,0.0,0.0,0.0,0.33,0.67,0,0.67
+444,Shubham Semwal,31/05/2021 12:38:28,want date anyone right maybe later interested,1,positive,0.18,0.5,0.0,0.0,0.0,0.5,0,0.50
+445,Shubham Semwal,31/05/2021 12:38:28,yea babii love u long time,1,positive,0.23,0.33,0.0,0.0,0.0,0.67,0,0.67
+447,Shubham Semwal,31/05/2021 12:38:29,things sure going script south africa,1,positive,0.50,0.0,0.0,0.33,0.0,0.67,0,0.67
+451,Shubham Semwal,31/05/2021 12:38:29,sadly think belong sucks working tonight,3,negative,-0.40,0.33,0.0,0.33,0.0,0.33,0,0.33
+452,Shubham Semwal,31/05/2021 12:38:29,harold better win gold logie haha adam hills rove hate gretel kileen ever hired igneranous,1,positive,0.17,0.0,0.0,0.67,0.33,0.0,2,0.67
+454,Shubham Semwal,31/05/2021 12:38:29,last song hurley heard batteries died,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+455,Shubham Semwal,31/05/2021 12:38:30,im ssick anyone got one use feild car roll shoot heheee sory ju,0,neutral,0.00,0,0,0,0,0,0,0.00
+456,Shubham Semwal,31/05/2021 12:38:30,check interview south beach bride magsummer edition due week,3,negative,-0.12,0,0,0,0,0,0,0.00
+457,Shubham Semwal,31/05/2021 12:38:30,anyone knows sort bad sector harddrive please let know btw boot properly either,3,negative,-0.35,0.25,0.0,0.0,0.75,0.0,3,0.75
+459,Shubham Semwal,31/05/2021 12:38:30,cheers best season yet parasta rokkia sitten aikoihin,2,Very positive,1.00,0.5,0.0,0.5,0.0,0.0,0,0.00
+460,Shubham Semwal,31/05/2021 12:38:30,shout outs makin moves,0,neutral,0.00,0.0,0.5,0.5,0.0,0.0,0,0.00
+461,Shubham Semwal,31/05/2021 12:38:30,martin sixtyseven worldwide printing network well great minds think alike,2,Very positive,0.80,0.25,0.0,0.5,0.0,0.25,2,0.50
+463,Shubham Semwal,31/05/2021 12:38:30,worth tupperware covered mouse poop pop quiz twits chuck attempt clean aaaarrgghhhhhhhh prospects,1,positive,0.33,0.0,0.0,0.0,0.0,1.0,0,1.00
+464,Shubham Semwal,31/05/2021 12:38:31,car repairs bankers club boozes,0,neutral,0.00,0,0,0,0,0,0,0.00
+468,Shubham Semwal,31/05/2021 12:38:31,amp one else twitters,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+470,Shubham Semwal,31/05/2021 12:38:31,amp also really good first month wilsa yay lost voice coz singing,1,positive,0.47,0.2,0.0,0.4,0.2,0.2,2,0.40
+471,Shubham Semwal,31/05/2021 12:38:31,amp also fucking obnoxious one likes oh amp btw love boyfriend,3,negative,-0.05,1.0,0.0,0.0,0.0,0.0,0,1.00
+472,Shubham Semwal,31/05/2021 12:38:31,amp btw chunhees leaving family outing nooooooooo sad yejin leaving chunderella leave,3,negative,-0.50,0.0,0.33,0.33,0.33,0.0,0,0.00
+474,Shubham Semwal,31/05/2021 12:38:32,amp highly illegal things celebration night broads,3,negative,-0.50,0.0,0.0,0.5,0.0,0.5,0,0.50
+476,Shubham Semwal,31/05/2021 12:38:32,amp happy birthday mrsuh,2,Very positive,0.80,1.0,0.0,0.0,0.0,0.0,0,1.00
+478,Shubham Semwal,31/05/2021 12:38:32,amp got costco card day,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+481,Shubham Semwal,31/05/2021 12:38:32,amp jelly w heineken done soothing gn til awake,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+485,Shubham Semwal,31/05/2021 12:38:33,amp nobody gives damn,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+487,Shubham Semwal,31/05/2021 12:38:33,amp studying english regents tomorrow morning wish luck never know need reals thanks lol,1,positive,0.33,0.5,0.0,0.0,0.5,0.0,0,0.00
+488,Shubham Semwal,31/05/2021 12:38:33,amp hotel booked soooo excited,1,positive,0.38,0.0,0.0,0.0,1.0,0.0,3,1.00
+489,Shubham Semwal,31/05/2021 12:38:33,amp pretending see friend told guess embarrassed moment think dumb hot amp sweet,1,positive,0.07,0.14,0.0,0.29,0.29,0.29,0,0.29
+493,Shubham Semwal,31/05/2021 12:38:34,take lead thank tony pena ughhhh go,0,neutral,0.00,0,0,0,0,0,0,0.00
+494,Shubham Semwal,31/05/2021 12:38:34,missing everything time go away,3,negative,-0.20,0.0,0.33,0.0,0.67,0.0,3,0.67
+497,Shubham Semwal,31/05/2021 12:38:34,worldcat registry api support request based ip,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+498,Shubham Semwal,31/05/2021 12:38:34,vote www musiqtone com,0,neutral,0.00,0,0,0,0,0,0,0.00
+500,Shubham Semwal,31/05/2021 12:38:34,tomorrow woo anyone wants meet send way,1,positive,0.20,0.0,0.0,0.0,0.0,1.0,0,1.00
+501,Shubham Semwal,31/05/2021 12:38:34,im badass every body train turns hottness,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+505,Shubham Semwal,31/05/2021 12:38:34,quot see july quot cant wait,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+506,Shubham Semwal,31/05/2021 12:38:35,next year get bigger goddamn venue like red rocks nd year sold,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+508,Shubham Semwal,31/05/2021 12:38:35,know want mm soma south beach yr,0,neutral,0.00,0,0,0,0,0,0,0.00
+510,Shubham Semwal,31/05/2021 12:38:35,monday flashmob second attempt,0,neutral,0.00,0,0,0,0,0,0,0.00
+512,Shubham Semwal,31/05/2021 12:38:35,sorry must go even boring,4,Very negative,-0.75,0.0,0.0,0.0,1.0,0.0,3,1.00
+514,Shubham Semwal,31/05/2021 12:38:35,recommend kind generous aussie always help always keep company,2,Very positive,0.60,0.4,0.0,0.2,0.4,0.0,0,0.00
+519,Shubham Semwal,31/05/2021 12:38:36,monday dead gone jt happy music monday everybody love music,1,positive,0.37,0.67,0.0,0.0,0.0,0.33,0,0.67
+521,Shubham Semwal,31/05/2021 12:38:36,quot come back mequot david cook,0,neutral,0.00,0,0,0,0,0,0,0.00
+522,Shubham Semwal,31/05/2021 12:38:36,quot hurt laterquot new favorite song top played songs itunes love,1,positive,0.41,0.4,0.0,0.2,0.2,0.2,0,0.40
+524,Shubham Semwal,31/05/2021 12:38:36,quot yesterdayquot beatles dont hate said let marinate,4,Very negative,-0.80,0.0,0.0,0.33,0.67,0.0,3,0.67
+528,Shubham Semwal,31/05/2021 12:38:37,alasdair mac colla clannad keep irish music alive,1,positive,0.05,0.0,0.0,0.0,0.0,1.0,0,1.00
+529,Shubham Semwal,31/05/2021 12:38:37,bill withers quot lovely dayquot great song lift anyones spirits enjoy,2,Very positive,0.57,0.6,0.0,0.2,0.2,0.0,0,0.60
+531,Shubham Semwal,31/05/2021 12:38:37,counting crows mr jones classic summer song great listen sunshine,1,positive,0.48,0.67,0.0,0.0,0.0,0.33,0,0.67
+534,Shubham Semwal,31/05/2021 12:38:37,hit lights speakers blown,0,neutral,0.00,0.0,0.5,0.5,0.0,0.0,0,0.00
+536,Shubham Semwal,31/05/2021 12:38:37,see like recommendations christian music recommend christian song,0,neutral,0.00,0,0,0,0,0,0,0.00
+539,Shubham Semwal,31/05/2021 12:38:38,im lisetning build god talk dunno mqay interested,1,positive,0.25,0.33,0.0,0.33,0.0,0.33,0,0.33
+540,Shubham Semwal,31/05/2021 12:38:38,im boat lonely island feat pain,3,negative,-0.10,0.0,0.0,0.0,1.0,0.0,3,1.00
+542,Shubham Semwal,31/05/2021 12:38:38,jonas brothers paranoid,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+543,Shubham Semwal,31/05/2021 12:38:38,led zeppelin stairway heaven amp heart breaker,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+546,Shubham Semwal,31/05/2021 12:38:38,love like natasha ft sean kingston old song love,1,positive,0.37,1.0,0.0,0.0,0.0,0.0,0,1.00
+549,Shubham Semwal,31/05/2021 12:38:39,poison ivy jonas brothers,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+550,Shubham Semwal,31/05/2021 12:38:39,quietdrive time time perfect rainy night,2,Very positive,1.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+552,Shubham Semwal,31/05/2021 12:38:39,robo tech hyper crush wish luck glacier hiking take l weekend warriors love music mondays,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+553,Shubham Semwal,31/05/2021 12:38:39,morning twittytickelers,0,neutral,0.00,0,0,0,0,0,0,0.00
+555,Shubham Semwal,31/05/2021 12:38:39,fray save life song listen night go sleep,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+556,Shubham Semwal,31/05/2021 12:38:39,sensitive kind santana omg track,1,positive,0.35,0.5,0.0,0.5,0.0,0.0,0,0.00
+557,Shubham Semwal,31/05/2021 12:38:39,tommy february quot lonely gorgeousquot missed song,3,negative,-0.10,0.0,0.0,0.0,1.0,0.0,3,1.00
+558,Shubham Semwal,31/05/2021 12:38:39,trouble nevershoutnever great song,1,positive,0.30,0.5,0.0,0.0,0.5,0.0,0,0.00
+561,Shubham Semwal,31/05/2021 12:38:40,best bandsoff myspace one ill knwo coz theyll copy yay secrety whatevr add,1,positive,0.25,0.0,0.0,0.5,0.5,0.0,0,0.00
+565,Shubham Semwal,31/05/2021 12:38:40,purchased paolo merriweather albs today soulful inspiration sunny day,0,neutral,0.00,0.67,0.0,0.0,0.0,0.33,0,0.67
+566,Shubham Semwal,31/05/2021 12:38:40,quot modern warfare e ign interview movquot upload failed unknown error occurred damn youtube,3,negative,-0.13,0.0,0.0,0.0,0.5,0.5,0,0.50
+567,Shubham Semwal,31/05/2021 12:38:40,slugger u got keep us informed haha saying behalf wen say cant wait come,1,positive,0.20,0.0,0.0,1.0,0.0,0.0,2,1.00
+569,Shubham Semwal,31/05/2021 12:38:41,lmao love nerds bitch system better theyre dumb,1,positive,0.31,0.25,0.0,0.25,0.0,0.5,0,0.50
+570,Shubham Semwal,31/05/2021 12:38:41,please bring fairly regular updates like new guns maps free please,1,positive,0.18,0.25,0.0,0.0,0.75,0.0,3,0.75
+571,Shubham Semwal,31/05/2021 12:38:41,pleeeeeeeeeeeez hav gc back pleeeez otherwise ill sad,3,negative,-0.33,0.0,0.0,0.0,1.0,0.0,3,1.00
+572,Shubham Semwal,31/05/2021 12:38:41,remove juggernaut useless doesnt make epeen bigger guns,3,negative,-0.25,0.0,0.0,0.0,1.0,0.0,3,1.00
+573,Shubham Semwal,31/05/2021 12:38:41,yea great wow look trailer mw check,1,positive,0.45,0.33,0.0,0.33,0.0,0.33,0,0.33
+574,Shubham Semwal,31/05/2021 12:38:41,loves music fan well mom wish together fml,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+575,Shubham Semwal,31/05/2021 12:38:41,black gold adeles cover sam sparro song,3,negative,-0.17,0.0,0.0,0.0,0.0,1.0,0,1.00
+577,Shubham Semwal,31/05/2021 12:38:41,brown eyes long lashes,3,negative,-0.05,0.0,0.33,0.0,0.33,0.33,0,0.33
+578,Shubham Semwal,31/05/2021 12:38:41,follow amp see weaknesses starting shopping amp shoes hahaa,0,neutral,0.00,0.5,0.0,0.0,0.0,0.5,0,0.50
+580,Shubham Semwal,31/05/2021 12:38:42,love summer sun soles,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+581,Shubham Semwal,31/05/2021 12:38:42,jamba juice smoothies flavors,0,neutral,0.00,0,0,0,0,0,0,0.00
+584,Shubham Semwal,31/05/2021 12:38:42,girls girls weakness fall love easily,1,positive,0.47,0.4,0.0,0.4,0.0,0.2,0,0.20
+585,Shubham Semwal,31/05/2021 12:38:42,simply shoe section anytime go shopping anything end shopping shoes right gossip girl,1,positive,0.14,0.0,0.0,0.25,0.0,0.75,0,0.75
+586,Shubham Semwal,31/05/2021 12:38:42,cuz got thing assholes,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+588,Shubham Semwal,31/05/2021 12:38:42,brownskin honeii tatd swagd wit waves hella personality wyt killer smile,1,positive,0.30,0.25,0.0,0.25,0.0,0.5,0,0.50
+593,Shubham Semwal,31/05/2021 12:38:43,chocolate shoes clothes,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+596,Shubham Semwal,31/05/2021 12:38:43,fictional boys whose lack existence severely unfortunate,3,negative,-0.25,0.0,0.0,0.0,1.0,0.0,3,1.00
+603,Shubham Semwal,31/05/2021 12:38:44,amp thanks monika derek thinks problems lmao,1,positive,0.40,0.0,0.0,0.5,0.0,0.5,0,0.50
+604,Shubham Semwal,31/05/2021 12:38:44,amp graduation parties continue text meee,0,neutral,0.00,0,0,0,0,0,0,0.00
+605,Shubham Semwal,31/05/2021 12:38:44,amp sun shinin window,0,neutral,0.00,0,0,0,0,0,0,0.00
+606,Shubham Semwal,31/05/2021 12:38:44,amp nighter work another one failed airport philippines th,3,negative,-0.50,0.0,0.0,0.0,0.0,1.0,0,1.00
+608,Shubham Semwal,31/05/2021 12:38:44,amp nice people following progress ill write soon tired right happily miss,1,positive,0.13,0.5,0.0,0.0,0.25,0.25,0,0.50
+609,Shubham Semwal,31/05/2021 12:38:44,amp top sums made day hehe,1,positive,0.50,0.33,0.0,0.33,0.33,0.0,0,0.00
+611,Shubham Semwal,31/05/2021 12:38:45,amp amp thinnnk self wonderrfullll liiifffeee,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+614,Shubham Semwal,31/05/2021 12:38:45,amp amp still got bad cold,4,Very negative,-0.65,0.0,0.0,0.5,0.5,0.0,0,0.00
+615,Shubham Semwal,31/05/2021 12:38:45,amp amp mosquito room,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+617,Shubham Semwal,31/05/2021 12:38:45,amp amp made couple dumb mistakes math regents,3,negative,-0.38,0.0,0.0,0.0,1.0,0.0,3,1.00
+619,Shubham Semwal,31/05/2021 12:38:46,amp busy day today hopefully hanging tiffany,1,positive,0.10,0.5,0.0,0.0,0.0,0.5,0,0.50
+620,Shubham Semwal,31/05/2021 12:38:46,amp think yur beautiful think yur beyond like lol,2,Very positive,0.82,0.25,0.0,0.5,0.0,0.25,2,0.50
+621,Shubham Semwal,31/05/2021 12:38:46,amp cried realizing days left spend u,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+623,Shubham Semwal,31/05/2021 12:38:46,amp nd top dat think im gettin sick thanx somebody smh,3,negative,-0.11,0.0,0.0,0.67,0.33,0.0,2,0.67
+625,Shubham Semwal,31/05/2021 12:38:46,gt quot get drunk youquot j est escolhido,3,negative,-0.50,0,0,0,0,0,0,0.00
+627,Shubham Semwal,31/05/2021 12:38:47,gt somehow doubt ism existent needs come terms,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+629,Shubham Semwal,31/05/2021 12:38:47,gt try lunchtime reading story gladiator real would gr mental,1,positive,0.05,0.0,0.0,0.0,0.5,0.5,0,0.50
+632,Shubham Semwal,31/05/2021 12:38:47,gt earrings tiger kitten,0,neutral,0.00,0,0,0,0,0,0,0.00
+634,Shubham Semwal,31/05/2021 12:38:47,intelligence witty sense humor entire female anatomy sigh god good,1,positive,0.30,0.25,0.0,0.25,0.25,0.25,0,0.25
+635,Shubham Semwal,31/05/2021 12:38:47,dominos cheeseburst pizza shit want,3,negative,-0.20,0.0,0.0,1.0,0.0,0.0,2,1.00
+638,Shubham Semwal,31/05/2021 12:38:48,jesse mccartneys voice,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+639,Shubham Semwal,31/05/2021 12:38:48,kyle patrick always tend smile see,1,positive,0.30,0.5,0.0,0.0,0.5,0.0,0,0.00
+640,Shubham Semwal,31/05/2021 12:38:48,light skinned girls high heels smdh kind like crack lmfao,1,positive,0.39,0.25,0.25,0.25,0.0,0.25,0,0.25
+641,Shubham Semwal,31/05/2021 12:38:48,loving photography passionately loathing sales artist one thing art business sales art,1,positive,0.27,0.25,0.25,0.25,0.0,0.25,0,0.25
+642,Shubham Semwal,31/05/2021 12:38:48,dogs puppy face lol lil beezy runs amok house,2,Very positive,0.80,0.0,1.0,0.0,0.0,0.0,1,1.00
+646,Shubham Semwal,31/05/2021 12:38:48,old magazines full really cheesy retro ads chocolate mints necessarily order,3,negative,-0.01,0.0,0.0,1.0,0.0,0.0,2,1.00
+648,Shubham Semwal,31/05/2021 12:38:49,pretty lips amp nice smilesss,1,positive,0.42,0.75,0.25,0.0,0.0,0.0,0,0.75
+649,Shubham Semwal,31/05/2021 12:38:49,procrastination know bad anyway,4,Very negative,-0.70,0.0,0.0,0.0,1.0,0.0,3,1.00
+653,Shubham Semwal,31/05/2021 12:38:49,loving always let negative people life,1,positive,0.15,0.2,0.0,0.0,0.6,0.2,3,0.60
+655,Shubham Semwal,31/05/2021 12:38:49,romance movies csi guylian pretty shoes guys blue eyes reality tv good news week cute tees wikipedia amp sytycda,1,positive,0.36,0.6,0.0,0.0,0.2,0.2,0,0.60
+656,Shubham Semwal,31/05/2021 12:38:49,ice cream flavour eat everyday,3,negative,-0.20,0.0,0.0,0.0,0.0,1.0,0,1.00
+660,Shubham Semwal,31/05/2021 12:38:50,congrats brad dale jr godaddy someone tell shrub racing,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+662,Shubham Semwal,31/05/2021 12:38:50,melanoma survivor im happy around celebrate,2,Very positive,0.80,1.0,0.0,0.0,0.0,0.0,0,1.00
+663,Shubham Semwal,31/05/2021 12:38:50,longer trending topic,0,neutral,0.00,0,0,0,0,0,0,0.00
+666,Shubham Semwal,31/05/2021 12:38:50,back online sorry false alarm,3,negative,-0.30,0.0,0.0,0.5,0.5,0.0,0,0.00
+667,Shubham Semwal,31/05/2021 12:38:50,moon trailer better twilight movie problem edward cullen much exposure since left,1,positive,0.23,0.0,0.0,0.33,0.0,0.67,0,0.67
+668,Shubham Semwal,31/05/2021 12:38:50,going change world hoing best movie reading book,2,Very positive,1.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+672,Shubham Semwal,31/05/2021 12:38:51,jet noise definitely irritating live learn,3,negative,-0.13,0.0,0.5,0.0,0.0,0.5,0,0.50
+674,Shubham Semwal,31/05/2021 12:38:51,giggles group hugs perseq tpohisself,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+675,Shubham Semwal,31/05/2021 12:38:51,mac really pants k rows text file graph please without crashing excel ease,1,positive,0.20,0.0,0.0,0.62,0.12,0.25,2,0.62
+676,Shubham Semwal,31/05/2021 12:38:51,adds far go month let us go,1,positive,0.10,0.0,0.0,0.0,0.67,0.33,3,0.67
+678,Shubham Semwal,31/05/2021 12:38:51,divided need pick one vote one,0,neutral,0.00,0,0,0,0,0,0,0.00
+681,Shubham Semwal,31/05/2021 12:38:52,startrek taking life know good thing bad thing,1,positive,0.00,0.17,0.0,0.5,0.17,0.17,2,0.50
+687,Shubham Semwal,31/05/2021 12:38:52,growing liking escape company firewall though nothing,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+689,Shubham Semwal,31/05/2021 12:38:52,agrees buy guess loose advocates see rise,3,negative,-0.08,0.0,0.0,1.0,0.0,0.0,2,1.00
+692,Shubham Semwal,31/05/2021 12:38:52,afridi opening game today,3,negative,-0.40,0.0,0.0,0.0,0.0,1.0,0,1.00
+694,Shubham Semwal,31/05/2021 12:38:53,look really bad tonight,4,Very negative,-0.70,0.0,0.0,0.5,0.5,0.0,0,0.00
+695,Shubham Semwal,31/05/2021 12:38:53,sluggish today dm stack freezes,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+696,Shubham Semwal,31/05/2021 12:38:53,angry public im ignorant angry person srry,3,negative,-0.33,0.0,1.0,0.0,0.0,0.0,1,1.00
+697,Shubham Semwal,31/05/2021 12:38:53,yup three rivers last,0,neutral,0.00,0,0,0,0,0,0,0.00
+699,Shubham Semwal,31/05/2021 12:38:53,woes tls packet unexpected length received,1,positive,0.10,0.33,0.0,0.33,0.33,0.0,0,0.00
+702,Shubham Semwal,31/05/2021 12:38:54,twitter playing hide seek profile pic hell picture,0,neutral,0.00,0.0,0.33,0.0,0.33,0.33,0,0.33
+703,Shubham Semwal,31/05/2021 12:38:54,good camera shop pdx get new lens hopefully lens help canon rebel xti need help,1,positive,0.42,0.17,0.17,0.33,0.0,0.33,0,0.33
+704,Shubham Semwal,31/05/2021 12:38:54,make sure envquot railsenvquot quot productionquot google analytics code throws numbers elsewise,1,positive,0.50,0.0,0.0,0.0,0.33,0.67,0,0.67
+705,Shubham Semwal,31/05/2021 12:38:54,go trending topics kind psp lol paint shop pro psp,2,Very positive,0.70,1.0,0.0,0.0,0.0,0.0,0,1.00
+707,Shubham Semwal,31/05/2021 12:38:54,later extended hours pst falls right last hours scheduled work hours tough contribute,3,negative,-0.03,0.0,0.0,0.0,0.0,1.0,0,1.00
+708,Shubham Semwal,31/05/2021 12:38:54,getting ready last day qf bah seen clinics want yet,1,positive,0.10,0.67,0.33,0.0,0.0,0.0,0,0.67
+711,Shubham Semwal,31/05/2021 12:38:55,features explorer tree yeah listen community open source digital asset management,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+712,Shubham Semwal,31/05/2021 12:38:55,someone say people deserve shot,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+715,Shubham Semwal,31/05/2021 12:38:55,oooops messed ctrl z time,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+716,Shubham Semwal,31/05/2021 12:38:55,hay guys skipping chicago twice nice,2,Very positive,0.60,1.0,0.0,0.0,0.0,0.0,0,1.00
+717,Shubham Semwal,31/05/2021 12:38:55,lost first race starting well,1,positive,0.12,0.0,0.0,0.33,0.33,0.33,0,0.33
+718,Shubham Semwal,31/05/2021 12:38:55,rockys amp left amp coming back signed yr deal brumbies ta great season,1,positive,0.27,0.33,0.0,0.33,0.0,0.33,0,0.33
+721,Shubham Semwal,31/05/2021 12:38:56,locke either quot taxidermist hit manquot boone hunter killer funny light later seasons,1,positive,0.22,0.0,0.5,0.5,0.0,0.0,0,0.00
+722,Shubham Semwal,31/05/2021 12:38:56,thanks joining follow sanctuary people keep date tweets,1,positive,0.20,0,0,0,0,0,0,0.00
+726,Shubham Semwal,31/05/2021 12:38:56,says hi bb hope soon bed want masturbam bb want sex nasty kisses,4,Very negative,-1.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+731,Shubham Semwal,31/05/2021 12:38:57,crap david soul counting ones bought wombles stuff others got kid,4,Very negative,-0.80,0.17,0.17,0.33,0.0,0.33,0,0.33
+732,Shubham Semwal,31/05/2021 12:38:57,lost rights premiership games sucks spose cancel subscription,3,negative,-0.30,0.0,0.0,0.0,0.5,0.5,0,0.50
+733,Shubham Semwal,31/05/2021 12:38:57,havent lost followers yet love,1,positive,0.50,0.5,0.0,0.0,0.5,0.0,0,0.00
+737,Shubham Semwal,31/05/2021 12:38:57,signal bad get updates,4,Very negative,-0.70,0.0,0.0,0.0,1.0,0.0,3,1.00
+738,Shubham Semwal,31/05/2021 12:38:57,still work iphone told quot give another hourquot bc tech issues hours ago,0,neutral,0.00,0.0,0.0,0.0,0.33,0.67,0,0.67
+739,Shubham Semwal,31/05/2021 12:38:58,sabrina created first law library intranet told created famous law library intranet,1,positive,0.38,0.0,0.0,0.75,0.25,0.0,2,0.75
+740,Shubham Semwal,31/05/2021 12:38:58,future information professionalslibrariansetc sing melody future mjackson,0,neutral,0.00,0,0,0,0,0,0,0.00
+741,Shubham Semwal,31/05/2021 12:38:58,reminder head library head stairs nd floor listen loud voice,1,positive,0.10,0.0,0.0,0.25,0.0,0.75,0,0.75
+744,Shubham Semwal,31/05/2021 12:38:58,works great expensive would buy sure little cheaper,1,positive,0.15,0.25,0.0,0.0,0.0,0.75,0,0.75
+745,Shubham Semwal,31/05/2021 12:38:58,youve gotten better keep,1,positive,0.50,0.0,0.0,1.0,0.0,0.0,2,1.00
+749,Shubham Semwal,31/05/2021 12:38:58,absolutely nothing tv tonight,1,positive,0.20,0.0,0.0,0.0,0.0,1.0,0,1.00
+750,Shubham Semwal,31/05/2021 12:38:59,kill gain levels money quicker lvl,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+752,Shubham Semwal,31/05/2021 12:38:59,someone assassinated x row allowed wish flying monkeys sic,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+755,Shubham Semwal,31/05/2021 12:38:59,wantttts new iphone must wait till contract renewable,1,positive,0.14,0.0,0.0,0.5,0.0,0.5,0,0.50
+757,Shubham Semwal,31/05/2021 12:38:59,still pay squarespaced already,0,neutral,0.00,0,0,0,0,0,0,0.00
+758,Shubham Semwal,31/05/2021 12:38:59,give iphone nobody gets hurt,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+761,Shubham Semwal,31/05/2021 12:38:59,helped set garmin made garmins servers screw sync,0,neutral,0.00,0.0,0.0,0.33,0.33,0.33,0,0.33
+763,Shubham Semwal,31/05/2021 12:39:00,always confuse squarepants,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+766,Shubham Semwal,31/05/2021 12:39:00,gt love someone got wait til monday unfair,0,neutral,0.00,0.33,0.0,0.33,0.33,0.0,0,0.00
+767,Shubham Semwal,31/05/2021 12:39:00,gt huge oscar wilde salvidor dali fan,1,positive,0.40,0,0,0,0,0,0,0.00
+768,Shubham Semwal,31/05/2021 12:39:00,gt think everyone pitch quot get iowa fundquot,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+769,Shubham Semwal,31/05/2021 12:39:00,gt maths shoot please,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+770,Shubham Semwal,31/05/2021 12:39:00,gt outside thinking python classes java classesobjects different want finish program,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+771,Shubham Semwal,31/05/2021 12:39:00,gt gt excerpt memoirs teenage amnesiac gabrielle zevin,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+772,Shubham Semwal,31/05/2021 12:39:01,gt gt gt lmaooooooo im good story teller like u,2,Very positive,0.70,1.0,0.0,0.0,0.0,0.0,0,1.00
+775,Shubham Semwal,31/05/2021 12:39:01,gt gt playing zombie game round woow also upset becuase followers find one spam follower,3,negative,-0.30,0.0,0.0,0.0,0.0,1.0,0,1.00
+776,Shubham Semwal,31/05/2021 12:39:01,gt lt spacing nightmares day hate happens always seem real go,3,negative,-0.30,0.17,0.0,0.0,0.67,0.17,3,0.67
+779,Shubham Semwal,31/05/2021 12:39:02,gt anything special planned th episode amp lucky enough get xmas episide,1,positive,0.23,0.33,0.0,0.33,0.33,0.0,0,0.00
+781,Shubham Semwal,31/05/2021 12:39:02,gt waitinq mii dad qet back breakfastlt,0,neutral,0.00,0,0,0,0,0,0,0.00
+782,Shubham Semwal,31/05/2021 12:39:02,gt yawn n stretchlt going back bed hour,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+785,Shubham Semwal,31/05/2021 12:39:02,lt minutes curb gate including checkinimmigration security course flight late,3,negative,-0.30,0.0,0.0,0.0,0.5,0.5,0,0.50
+790,Shubham Semwal,31/05/2021 12:39:03,lt ignored sends direct messages seems,1,positive,0.10,0.0,0.0,0.0,0.33,0.67,0,0.67
+792,Shubham Semwal,31/05/2021 12:39:03,lt sad lost soccer semi tonight maybe tomorrow thurs go better,0,neutral,0.00,0.0,0.0,0.33,0.67,0.0,3,0.67
+793,Shubham Semwal,31/05/2021 12:39:03,lt found blcs going listening blcs watching boys n da hood studying multi task ftw,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+794,Shubham Semwal,31/05/2021 12:39:03,lt likes go beautiful sunny day drive cbr got work,2,Very positive,0.85,0.6,0.0,0.0,0.0,0.4,0,0.60
+796,Shubham Semwal,31/05/2021 12:39:03,think ill ever win contest total waste time,1,positive,0.03,0.0,0.0,1.0,0.0,0.0,2,1.00
+800,Shubham Semwal,31/05/2021 12:39:04,iphone hates please give new one p lost phone number,1,positive,0.14,0.0,0.0,0.0,0.6,0.4,3,0.60
+801,Shubham Semwal,31/05/2021 12:39:04,international winners yet jumps waving quot hello european customers entering quot,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+804,Shubham Semwal,31/05/2021 12:39:04,shoul dmaybe give back real cat eat iphone dont poor winner nothing,3,negative,-0.07,0.0,0.0,0.0,0.33,0.67,0,0.67
+805,Shubham Semwal,31/05/2021 12:39:04,everyone getting new iphone please give one need,1,positive,0.14,0.0,0.0,0.0,0.5,0.5,0,0.50
+807,Shubham Semwal,31/05/2021 12:39:04,clearly winner ive lot bad luck lately,3,negative,-0.30,0.33,0.0,0.0,0.67,0.0,3,0.67
+809,Shubham Semwal,31/05/2021 12:39:04,minutes acquired g yet comparing prices htc mobile,0,neutral,0.00,0,0,0,0,0,0,0.00
+815,Shubham Semwal,31/05/2021 12:39:05,sushi every day week think today break streak,0,neutral,0.00,0.25,0.0,0.75,0.0,0.0,2,0.75
+817,Shubham Semwal,31/05/2021 12:39:05,one confirmed case nc ugh,1,positive,0.40,0.0,0.0,0.0,0.5,0.5,0,0.50
+819,Shubham Semwal,31/05/2021 12:39:05,ca reg near attended last year watch inbox end june feel free share,1,positive,0.17,0.5,0.0,0.5,0.0,0.0,0,0.00
+822,Shubham Semwal,31/05/2021 12:39:06,attendees expected write report conference next week post respective blogs,3,negative,-0.03,1.0,0.0,0.0,0.0,0.0,0,1.00
+824,Shubham Semwal,31/05/2021 12:39:06,sarah connor chronicles officially cancelled,0,neutral,0.00,0,0,0,0,0,0,0.00
+827,Shubham Semwal,31/05/2021 12:39:06,quot know got mommyquot,0,neutral,0.00,0,0,0,0,0,0,0.00
+828,Shubham Semwal,31/05/2021 12:39:06,quot would chest pain smoke cigarettesquot,0,neutral,0.00,0.0,0.5,0.0,0.0,0.5,0,0.50
+833,Shubham Semwal,31/05/2021 12:39:07,hotel homepage minutes still alive yes yes,1,positive,0.10,0.0,0.0,0.0,1.0,0.0,3,1.00
+834,Shubham Semwal,31/05/2021 12:39:07,orlandola knotted love,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+839,Shubham Semwal,31/05/2021 12:39:07,still losing susan boyle,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+842,Shubham Semwal,31/05/2021 12:39:08,cabernet may seem soft many quaffable importantly posses markers cabernet head butt oak,1,positive,0.33,0.0,0.0,0.0,0.33,0.67,0,0.67
+844,Shubham Semwal,31/05/2021 12:39:08,period want get make work,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+846,Shubham Semwal,31/05/2021 12:39:08,lesbians stu deezy cant get via,0,neutral,0.00,0,0,0,0,0,0,0.00
+847,Shubham Semwal,31/05/2021 12:39:08,library closed today fallback position freihaus lab,3,negative,-0.10,1.0,0.0,0.0,0.0,0.0,0,1.00
+848,Shubham Semwal,31/05/2021 12:39:08,crashes way much seems hog processorram maybe run better gs,1,positive,0.35,0.0,0.0,0.67,0.33,0.0,2,0.67
+849,Shubham Semwal,31/05/2021 12:39:08,iphone keeps crashing cmon guys needs stable version else back twitterfon,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+850,Shubham Semwal,31/05/2021 12:39:08,keeps starting taskbar vista moving closing fix issue,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+851,Shubham Semwal,31/05/2021 12:39:08,iphone hanging underos adding follower group,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+855,Shubham Semwal,31/05/2021 12:39:09,lt face needs make shout pooh joke,0,neutral,0.00,0.33,0.0,0.33,0.33,0.0,0,0.00
+857,Shubham Semwal,31/05/2021 12:39:09,lt tres excited bought baby fig tree today hibiscus meyer lemons though,1,positive,0.38,0.0,0.0,0.0,1.0,0.0,3,1.00
+858,Shubham Semwal,31/05/2021 12:39:09,lt upset apple bluetooth mia,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+859,Shubham Semwal,31/05/2021 12:39:09,lt va couter fires rome,0,neutral,0.00,0,0,0,0,0,0,0.00
+861,Shubham Semwal,31/05/2021 12:39:09,lt lt planet terror lt lt pizza oj sleep,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+862,Shubham Semwal,31/05/2021 12:39:09,lt lt get another later summer money work hopefully dual quot mbp,0,neutral,0.00,0.5,0.0,0.0,0.0,0.5,0,0.50
+863,Shubham Semwal,31/05/2021 12:39:10,lt lt tummys happy beef noodle n coconut flesh desserts,2,Very positive,0.80,1.0,0.0,0.0,0.0,0.0,0,1.00
+865,Shubham Semwal,31/05/2021 12:39:10,lt lt lt lt lt lt wishes florida tha norwood fam,0,neutral,0.00,0,0,0,0,0,0,0.00
+869,Shubham Semwal,31/05/2021 12:39:10,lt srsly thank everything wanted put,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+872,Shubham Semwal,31/05/2021 12:39:11,lt elbow bad pinkpop lowlands solded really wanted go year,3,negative,-0.25,0.0,0.0,0.5,0.5,0.0,0,0.00
+873,Shubham Semwal,31/05/2021 12:39:11,lt going shopping later get much needed nap alchorange pixy dead body,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+876,Shubham Semwal,31/05/2021 12:39:11,lt korn guys champions world,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+877,Shubham Semwal,31/05/2021 12:39:11,lt lalala content fun,1,positive,0.30,0.5,0.0,0.0,0.0,0.5,0,0.50
+879,Shubham Semwal,31/05/2021 12:39:11,lt simultaneous sun moon bathing,0,neutral,0.00,0,0,0,0,0,0,0.00
+880,Shubham Semwal,31/05/2021 12:39:11,lt end school year private art show son family golden,1,positive,0.15,0.0,0.0,1.0,0.0,0.0,2,1.00
+881,Shubham Semwal,31/05/2021 12:39:12,lt lt lt cody linely lt lt lt mother fucking cody linely hes effing sexxii,4,Very negative,-0.55,0.5,0.5,0.0,0.0,0.0,0,0.00
+884,Shubham Semwal,31/05/2021 12:39:12,lt maroon quot secretquot heehee wedding date scenes got trippin slippin trrrippin oh lovelyyy,0,neutral,0.00,0,0,0,0,0,0,0.00
+886,Shubham Semwal,31/05/2021 12:39:12,lt happy mothers day motherslt hope join ya day,2,Very positive,0.80,0.75,0.0,0.0,0.0,0.25,0,0.75
+887,Shubham Semwal,31/05/2021 12:39:12,lt mum swearing tom tom,0,neutral,0.00,0.0,0.5,0.5,0.0,0.0,0,0.00
+889,Shubham Semwal,31/05/2021 12:39:13,lt feels overworked underpaid unappreciated time change,0,neutral,0.00,0,0,0,0,0,0,0.00
+896,Shubham Semwal,31/05/2021 12:39:13,way see quot full sizequot user avatarpicture twitter web site function need see small icons better,1,positive,0.20,0.0,0.0,0.33,0.33,0.33,0,0.33
+900,Shubham Semwal,31/05/2021 12:39:14,talent required cambridgeshire got skills,0,neutral,0.00,0,0,0,0,0,0,0.00
+901,Shubham Semwal,31/05/2021 12:39:14,arrghhh still cubed oh never mind,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+903,Shubham Semwal,31/05/2021 12:39:14,follow instead cooler,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+905,Shubham Semwal,31/05/2021 12:39:14,bottlerockets sold go anywhere,0,neutral,0.00,0,0,0,0,0,0,0.00
+907,Shubham Semwal,31/05/2021 12:39:14,jus lol new trend starting much celeb dick riding plus im hater lol,1,positive,0.39,0,0,0,0,0,0,0.00
+910,Shubham Semwal,31/05/2021 12:39:14,real vampire man sitting vampire land thinking vampire plans nobody,1,positive,0.20,0.0,0.0,0.33,0.33,0.33,0,0.33
+913,Shubham Semwal,31/05/2021 12:39:15,com anyone watch trailer park boys super blazed soooooo fuckin funny,1,positive,0.29,0.0,0.0,0.67,0.0,0.33,2,0.67
+917,Shubham Semwal,31/05/2021 12:39:15,lt grumblegt cant copy os x app paste winblows app parallels,0,neutral,0.00,0,0,0,0,0,0,0.00
+919,Shubham Semwal,31/05/2021 12:39:16,lt got home missing friends tonight,3,negative,-0.20,0.33,0.0,0.0,0.67,0.0,3,0.67
+920,Shubham Semwal,31/05/2021 12:39:16,lt looking window rain amp gray sky reminds,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+922,Shubham Semwal,31/05/2021 12:39:16,lt runs hidesgt haveing flu vaccination last needle experiences traumatic,0,neutral,0.00,0.0,0.5,0.5,0.0,0.0,0,0.00
+929,Shubham Semwal,31/05/2021 12:39:17,quot saw today feel bad quot,4,Very negative,-0.70,0.0,0.0,0.0,1.0,0.0,3,1.00
+936,Shubham Semwal,31/05/2021 12:39:18,quot u lookin like whale wdiabeatesquot quot di beat u bitchquot mad tv hahaha,3,negative,-0.21,0.0,0.5,0.5,0.0,0.0,0,0.00
+937,Shubham Semwal,31/05/2021 12:39:18,quot couse love wayquot like song,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+938,Shubham Semwal,31/05/2021 12:39:18,quot arrested child abuse quot man true,1,positive,0.35,0,0,0,0,0,0,0.00
+939,Shubham Semwal,31/05/2021 12:39:18,quot forget penquot quality,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+940,Shubham Semwal,31/05/2021 12:39:18,quot impact lives come across thank lord every day put u life wait til u quot,0,neutral,0.00,0.2,0.2,0.2,0.2,0.2,0,0.20
+941,Shubham Semwal,31/05/2021 12:39:18,quot another manic monday quot yay well see,0,neutral,0.00,0,0,0,0,0,0,0.00
+942,Shubham Semwal,31/05/2021 12:39:18,quot seven days quot birthday,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+944,Shubham Semwal,31/05/2021 12:39:18,quot guy gets glory score girl yet call whequot sad,3,negative,-0.50,0.0,0.25,0.5,0.25,0.0,2,0.50
+946,Shubham Semwal,31/05/2021 12:39:19,quot youll never alone love really know quot,1,positive,0.35,0.33,0.0,0.33,0.33,0.0,0,0.00
+947,Shubham Semwal,31/05/2021 12:39:19,quot youre still one quot smiles,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+949,Shubham Semwal,31/05/2021 12:39:19,final blow hits somebody else gets wanted know another time place repeating history,0,neutral,0.00,0.0,0.2,0.2,0.0,0.6,0,0.60
+951,Shubham Semwal,31/05/2021 12:39:19,last pilot whales beached morning shot tide retreated last,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+954,Shubham Semwal,31/05/2021 12:39:19,news become nauseating every morning,0,neutral,0.00,0,0,0,0,0,0,0.00
+958,Shubham Semwal,31/05/2021 12:39:20,like blame al al al al al alcohol wow,1,positive,0.10,0.0,0.0,1.0,0.0,0.0,2,1.00
+960,Shubham Semwal,31/05/2021 12:39:20,goes sociology sigh hate,4,Very negative,-0.80,0.0,0.0,0.0,0.67,0.33,3,0.67
+961,Shubham Semwal,31/05/2021 12:39:20,increibly stubborn person around doesnt talk much,1,positive,0.20,0,0,0,0,0,0,0.00
+962,Shubham Semwal,31/05/2021 12:39:20,ufc fight vegas july th wont vegas th th blows,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+963,Shubham Semwal,31/05/2021 12:39:20,cat getting trash outside grandmother screamed,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+964,Shubham Semwal,31/05/2021 12:39:20,little dog trying cross road,3,negative,-0.09,0.0,1.0,0.0,0.0,0.0,1,1.00
+965,Shubham Semwal,31/05/2021 12:39:20,theres bear behind office wish work home,3,negative,-0.40,0.0,0.0,0.0,0.75,0.25,3,0.75
+966,Shubham Semwal,31/05/2021 12:39:20,theres spider room needs leave right go jackie chan ass,1,positive,0.29,0.0,0.0,0.0,0.0,1.0,0,1.00
+968,Shubham Semwal,31/05/2021 12:39:21,hate yuh tooo yunq boy,4,Very negative,-0.80,0.0,0.0,0.0,1.0,0.0,3,1.00
+971,Shubham Semwal,31/05/2021 12:39:21,still falling ez u n pass time ever idk u kno even understand feelin rite,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+974,Shubham Semwal,31/05/2021 12:39:21,day long sleep downstairs tonight lolol,1,positive,0.38,0.5,0.0,0.0,0.0,0.5,0,0.50
+976,Shubham Semwal,31/05/2021 12:39:22,key board doesnt keys volume im going use mouse hard way lmfao,3,negative,-0.15,0.0,0.25,0.0,0.5,0.25,3,0.50
+982,Shubham Semwal,31/05/2021 12:39:22,stream doesnt work want watch soul central youth soooo bad,3,negative,-0.35,0.0,0.0,0.6,0.2,0.2,2,0.60
+983,Shubham Semwal,31/05/2021 12:39:22,jonas fan girl might think gay least would get attention,1,positive,0.06,0.2,0.2,0.4,0.0,0.2,2,0.40
+985,Shubham Semwal,31/05/2021 12:39:22,worries govt employees office building across street regulars store,0,neutral,0.00,0.0,0.0,0.0,0.67,0.33,3,0.67
+986,Shubham Semwal,31/05/2021 12:39:22,nice see finally twitter follow us back considering customers,1,positive,0.20,0.25,0.0,0.0,0.5,0.25,3,0.50
+988,Shubham Semwal,31/05/2021 12:39:23,talk went well seems well received general mess many times,1,positive,0.12,0.0,0.25,0.25,0.25,0.25,0,0.25
+995,Shubham Semwal,31/05/2021 12:39:23,anybody hates lakers ok really solid first step,1,positive,0.25,0.0,0.0,0.67,0.33,0.0,2,0.67
+998,Shubham Semwal,31/05/2021 12:39:24,love make full self importance really ive got nothing else day,1,positive,0.35,0.4,0.0,0.2,0.2,0.2,0,0.40
+999,Shubham Semwal,31/05/2021 12:39:24,new fabulous fascinating mention fun,1,positive,0.38,1.0,0.0,0.0,0.0,0.0,0,1.00
+1000,Shubham Semwal,31/05/2021 12:39:24,tweet keeps mother know without answering million questions every time see,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1001,Shubham Semwal,31/05/2021 12:39:24,tweet procrastinate exam tomorrow yet twitter,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1002,Shubham Semwal,31/05/2021 12:39:24,finally becomes trending topic awful circumstances,3,negative,-0.50,0.0,0.0,0.0,0.0,1.0,0,1.00
+1005,Shubham Semwal,31/05/2021 12:39:25,quot quot e mail miley want write cant,0,neutral,0.00,0,0,0,0,0,0,0.00
+1008,Shubham Semwal,31/05/2021 12:39:25,quot tea little squidgy balls inquot via better sounds,1,positive,0.16,0.0,0.0,1.0,0.0,0.0,2,1.00
+1009,Shubham Semwal,31/05/2021 12:39:25,quot well get one saturday go roundtrip tickets less,3,negative,-0.17,0,0,0,0,0,0,0.00
+1011,Shubham Semwal,31/05/2021 12:39:25,quot days without prayer makes weakquot keep focus peeps lets make finals alive well good night twitter babies,1,positive,0.40,0.29,0.0,0.0,0.57,0.14,3,0.57
+1012,Shubham Semwal,31/05/2021 12:39:25,quot quot trailer looks cool steampunkish,1,positive,0.35,1.0,0.0,0.0,0.0,0.0,0,1.00
+1014,Shubham Semwal,31/05/2021 12:39:26,quot family runs together madadapa together quot miss u guys,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+1015,Shubham Semwal,31/05/2021 12:39:26,quot freak like needs infinityquot hqppy birthday,0,neutral,0.00,0,0,0,0,0,0,0.00
+1017,Shubham Semwal,31/05/2021 12:39:26,quot friend someone walks whole world walks outquot cute,1,positive,0.35,0.67,0.0,0.0,0.0,0.33,0,0.67
+1018,Shubham Semwal,31/05/2021 12:39:26,quot true friend someone thinks good egg even though knows slightly cracked made think ya miley,1,positive,0.29,0.29,0.0,0.29,0.29,0.14,0,0.14
+1019,Shubham Semwal,31/05/2021 12:39:26,quot aaarrrgggghhhquot thing decribe feel rite,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1020,Shubham Semwal,31/05/2021 12:39:26,quot abduct abductedquot apart cause make difference give children future look forward,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+1021,Shubham Semwal,31/05/2021 12:39:27,quot advisedquot withdraw mile heat exhaustion going long drive back atlanta,3,negative,-0.03,0.0,0.0,0.0,0.0,1.0,0,1.00
+1022,Shubham Semwal,31/05/2021 12:39:27,quot ah hahaquot means end conversation,0,neutral,0.00,0,0,0,0,0,0,0.00
+1023,Shubham Semwal,31/05/2021 12:39:27,quot want fun got feeling im one quot haha,1,positive,0.25,1.0,0.0,0.0,0.0,0.0,0,1.00
+1027,Shubham Semwal,31/05/2021 12:39:27,quot general joseph hooker quot everyone starts laughing quot know last name prostitute right quot lmfao mr shniedddd xd,1,positive,0.11,0.0,0.0,0.0,0.0,1.0,0,1.00
+1028,Shubham Semwal,31/05/2021 12:39:27,quot know still gotttttt time think invinsibleeequot juggernauts enter shikari song makes happy,2,Very positive,0.80,0.33,0.0,0.33,0.33,0.0,0,0.00
+1030,Shubham Semwal,31/05/2021 12:39:28,quot hypocritisy hypocriticalquot ahhhhh miss brian theres awesome housemates years,2,Very positive,1.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+1033,Shubham Semwal,31/05/2021 12:39:28,sucks hate razor phones,4,Very negative,-0.55,0.0,0.0,0.0,1.0,0.0,3,1.00
+1038,Shubham Semwal,31/05/2021 12:39:28,year arena football games nooo shit everybody knows year philadelphia soul would champions,3,negative,-0.20,0.25,0.0,0.5,0.0,0.25,2,0.50
+1039,Shubham Semwal,31/05/2021 12:39:28,thunder lightning one thing scared even bear scared,0,neutral,0.00,0.0,0.0,0.25,0.75,0.0,3,0.75
+1040,Shubham Semwal,31/05/2021 12:39:29,thursday people let car,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1041,Shubham Semwal,31/05/2021 12:39:29,thy cumin get baby morning,0,neutral,0.00,0,0,0,0,0,0,0.00
+1045,Shubham Semwal,31/05/2021 12:39:29,tired ive really busy,3,negative,-0.15,0.0,0.0,0.5,0.0,0.5,0,0.50
+1046,Shubham Semwal,31/05/2021 12:39:29,tired monday school smelyalata,3,negative,-0.40,0,0,0,0,0,0,0.00
+1048,Shubham Semwal,31/05/2021 12:39:29,much drinking lead trowing feel like shit,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1051,Shubham Semwal,31/05/2021 12:39:29,today meet guy also went australia exchange student haha funny miss almost things haha,1,positive,0.22,0.0,0.0,0.5,0.25,0.25,2,0.50
+1058,Shubham Semwal,31/05/2021 12:39:30,tonight heard heartfelt prayer ever heard amp yr old,1,positive,0.05,0.0,0.0,1.0,0.0,0.0,2,1.00
+1059,Shubham Semwal,31/05/2021 12:39:30,totally screwed best thing whole life,1,positive,0.40,0.0,0.0,0.5,0.0,0.5,0,0.50
+1060,Shubham Semwal,31/05/2021 12:39:30,training today sweaty muddy thorns ankles sooo happy camp,2,Very positive,0.80,0.5,0.0,0.0,0.0,0.5,0,0.50
+1063,Shubham Semwal,31/05/2021 12:39:31,new multi mon shortcuts winshiftleft helpful ther,1,positive,0.14,1.0,0.0,0.0,0.0,0.0,0,1.00
+1064,Shubham Semwal,31/05/2021 12:39:31,installed nc also converted trial paid version msonline pay licenses needed,0,neutral,0.00,0,0,0,0,0,0,0.00
+1065,Shubham Semwal,31/05/2021 12:39:31,man gon na go bed soon,0,neutral,0.00,0,0,0,0,0,0,0.00
+1067,Shubham Semwal,31/05/2021 12:39:31,top trumps beat sydney elevation,1,positive,0.50,0.0,0.0,1.0,0.0,0.0,2,1.00
+1072,Shubham Semwal,31/05/2021 12:39:32,morning sore head great day yesterday awakened rooster remote wildlife good morning mr amp mrs jones,1,positive,0.47,0.5,0.17,0.0,0.17,0.17,0,0.50
+1075,Shubham Semwal,31/05/2021 12:39:32,omg many players waiting see final table could keep long time,1,positive,0.15,0.0,0.0,0.5,0.0,0.5,0,0.50
+1078,Shubham Semwal,31/05/2021 12:39:32,someone house stole ate pie fridge,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+1079,Shubham Semwal,31/05/2021 12:39:32,painting ffs ms really missed point,1,positive,0.20,0.0,0.0,0.67,0.33,0.0,2,0.67
+1080,Shubham Semwal,31/05/2021 12:39:32,follow fellow xbox fans,0,neutral,0.00,0,0,0,0,0,0,0.00
+1081,Shubham Semwal,31/05/2021 12:39:32,let us petition need comeback,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1082,Shubham Semwal,31/05/2021 12:39:33,brittainie bryers aw thats ok tom reason twitter anywa,1,positive,0.50,0.0,0.0,0.0,1.0,0.0,3,1.00
+1084,Shubham Semwal,31/05/2021 12:39:33,kristy official threw feeling sick babe know,4,Very negative,-0.71,0.0,0.0,0.0,1.0,0.0,3,1.00
+1087,Shubham Semwal,31/05/2021 12:39:33,blame grammar amp misspellings late reading tweets,3,negative,-0.30,0.0,0.0,0.0,1.0,0.0,3,1.00
+1088,Shubham Semwal,31/05/2021 12:39:33,ask drop tehbored radio vol looking,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1090,Shubham Semwal,31/05/2021 12:39:33,quot back nov dec quot brb exploding thank,0,neutral,0.00,0,0,0,0,0,0,0.00
+1091,Shubham Semwal,31/05/2021 12:39:33,quot met thought nicest person world lolquot,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1092,Shubham Semwal,31/05/2021 12:39:33,quot another aeroplane another sunny day want go home quot,0,neutral,0.00,0.67,0.0,0.0,0.33,0.0,0,0.67
+1095,Shubham Semwal,31/05/2021 12:39:34,quot beauty geekquot quiz result gt beauty gold heart haha,1,positive,0.20,0.67,0.0,0.0,0.33,0.0,0,0.67
+1098,Shubham Semwal,31/05/2021 12:39:34,quot awesomequot night last night tried absinthe hahah lovelovelove friends megan coming today,0,neutral,0.00,0.5,0.0,0.5,0.0,0.0,0,0.00
+1102,Shubham Semwal,31/05/2021 12:39:34,quot balance balance kat key life balance quot right keep mind best,1,positive,0.43,0.0,0.0,0.25,0.12,0.62,0,0.62
+1103,Shubham Semwal,31/05/2021 12:39:35,quot baruch ha shem yahwehquot know,0,neutral,0.00,0,0,0,0,0,0,0.00
+1108,Shubham Semwal,31/05/2021 12:39:35,quot sexist egotistical lying hypocritical bigot quot quot bingo quot,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1110,Shubham Semwal,31/05/2021 12:39:35,quot chopped hookers heads quot crazy hanging davey laterrrr hes cool,3,negative,-0.12,0.33,0.0,0.0,0.0,0.67,0,0.67
+1113,Shubham Semwal,31/05/2021 12:39:36,quot bettydraper following twitter quot honor,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1116,Shubham Semwal,31/05/2021 12:39:36,quot black velvet black velvet quot orlando brown eddie thomas thats raven,3,negative,-0.17,0.0,0.0,0.0,0.5,0.5,0,0.50
+1119,Shubham Semwal,31/05/2021 12:39:36,quot brainstormquot called quot quot chinese sounds lot violent,3,negative,-0.40,0.0,0.0,0.0,1.0,0.0,3,1.00
+1126,Shubham Semwal,31/05/2021 12:39:37,tonight going fires aparently comming,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1128,Shubham Semwal,31/05/2021 12:39:37,bad news players use phones tweets,4,Very negative,-0.70,0.0,0.0,0.0,1.0,0.0,3,1.00
+1130,Shubham Semwal,31/05/2021 12:39:37,siblingsdiv hide pretty cool saves tons code,1,positive,0.30,0.67,0.33,0.0,0.0,0.0,0,0.67
+1133,Shubham Semwal,31/05/2021 12:39:38,robin thicke jennifer hudson suprise guests chaka khan earth wind fire definitely worth money dam good,1,positive,0.50,0.25,0.0,0.25,0.0,0.5,0,0.50
+1134,Shubham Semwal,31/05/2021 12:39:38,get outfit tired feel like going,3,negative,-0.40,0.0,0.0,0.0,0.0,1.0,0,1.00
+1135,Shubham Semwal,31/05/2021 12:39:38,hidden webpage ie view yay web standards,3,negative,-0.17,0.0,0.5,0.0,0.0,0.5,0,0.50
+1136,Shubham Semwal,31/05/2021 12:39:38,five band dollar almost amazing blinks tour bad missed montreal,3,negative,-0.05,0.0,0.0,0.25,0.5,0.25,3,0.50
+1137,Shubham Semwal,31/05/2021 12:39:38,fine hrs community service random uas mnths probation jail,3,negative,-0.06,1.0,0.0,0.0,0.0,0.0,0,1.00
+1139,Shubham Semwal,31/05/2021 12:39:38,later hope everyone fun night oh god work less hrs like pm leave love,1,positive,0.16,0.4,0.0,0.2,0.0,0.4,0,0.40
+1140,Shubham Semwal,31/05/2021 12:39:39,spent rainbows family lol fixie bike helmet alex burning holes yeah,1,positive,0.35,0.0,0.0,0.33,0.67,0.0,3,0.67
+1141,Shubham Semwal,31/05/2021 12:39:39,account til wednesday,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1143,Shubham Semwal,31/05/2021 12:39:39,worth jewelry sweaters awesome,2,Very positive,0.65,0.0,0.0,0.5,0.0,0.5,0,0.50
+1145,Shubham Semwal,31/05/2021 12:39:39,lonestar pitchers still recovering last weekends bout irresponsible gluten consumption,0,neutral,0.00,0.0,0.0,0.33,0.67,0.0,3,0.67
+1146,Shubham Semwal,31/05/2021 12:39:39,plumbing bill plus side recommend midwestern plumbing services cincinnati,0,neutral,0.00,0,0,0,0,0,0,0.00
+1147,Shubham Semwal,31/05/2021 12:39:39,zoo day tomorrow stoked,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+1150,Shubham Semwal,31/05/2021 12:39:39,tax credit nov mmm mmm good,2,Very positive,0.70,0.5,0.0,0.0,0.0,0.5,0,0.50
+1152,Shubham Semwal,31/05/2021 12:39:39,amne quietly gaining today,0,neutral,0.00,0,0,0,0,0,0,0.00
+1155,Shubham Semwal,31/05/2021 12:39:40,rz hope time tell good luck,2,Very positive,0.70,0.5,0.0,0.0,0.25,0.25,0,0.50
+1158,Shubham Semwal,31/05/2021 12:39:40,amp actually makeup today whoo amp went shopping gifts pretty productive day considering long night,1,positive,0.07,0.33,0.0,0.17,0.17,0.33,0,0.33
+1159,Shubham Semwal,31/05/2021 12:39:40,amp days till jonas woooo life sweet,1,positive,0.35,0.5,0.0,0.0,0.0,0.5,0,0.50
+1162,Shubham Semwal,31/05/2021 12:39:41,amp dannys ending performance beautiful btw stayed yesterday amp forgot bring thumbdrive smartest ever,2,Very positive,0.85,0.17,0.33,0.17,0.17,0.17,1,0.33
+1165,Shubham Semwal,31/05/2021 12:39:41,amp fwah big ds closed went pftttttt ima go bed gon na wake hrs time,3,negative,-0.05,0.5,0.0,0.0,0.0,0.5,0,0.50
+1166,Shubham Semwal,31/05/2021 12:39:41,amp father kids poor baby,3,negative,-0.40,1.0,0.0,0.0,0.0,0.0,0,1.00
+1167,Shubham Semwal,31/05/2021 12:39:41,amp watch mtv awards start fall asleep sucks,3,negative,-0.30,0.0,0.5,0.5,0.0,0.0,0,0.00
+1168,Shubham Semwal,31/05/2021 12:39:41,amp drank milk im sick seriously,4,Very negative,-0.52,0.0,0.0,0.0,1.0,0.0,3,1.00
+1170,Shubham Semwal,31/05/2021 12:39:42,amp played forevs interesting last real game ever sucking amp soaking,3,negative,-0.03,0.25,0.0,0.25,0.25,0.25,0,0.25
+1171,Shubham Semwal,31/05/2021 12:39:42,amp miss u second u leave,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1174,Shubham Semwal,31/05/2021 12:39:42,amp need bowl pho tai baaaaddddd,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1175,Shubham Semwal,31/05/2021 12:39:42,amp hit cause aint updating lmaoo daam,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+1179,Shubham Semwal,31/05/2021 12:39:43,amp la crooks familia follow ass nigguhs free hope get artwork soon haha,1,positive,0.30,0.33,0.0,0.0,0.33,0.33,0,0.33
+1182,Shubham Semwal,31/05/2021 12:39:43,amp lt criminy cuteness,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1186,Shubham Semwal,31/05/2021 12:39:43,amp someone drove trs blasting,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1188,Shubham Semwal,31/05/2021 12:39:43,amp tell managed get mommmy day amazing babycakes,2,Very positive,0.60,0.25,0.0,0.25,0.25,0.25,0,0.25
+1192,Shubham Semwal,31/05/2021 12:39:44,amp tomorrow going doctor checked fluuuu,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1193,Shubham Semwal,31/05/2021 12:39:44,amp trolls dog mugs vintage sweaters amazing boots small much sell fuck ya,1,positive,0.04,0.33,0.33,0.33,0.0,0.0,0,0.00
+1194,Shubham Semwal,31/05/2021 12:39:44,amp know never simple never easy never clean break one save,3,negative,-0.13,0.0,0.0,0.5,0.0,0.5,0,0.50
+1200,Shubham Semwal,31/05/2021 12:39:45,amp amp gone cold plus side bit months left go spring,3,negative,-0.30,0.0,0.0,0.67,0.0,0.33,2,0.67
+1204,Shubham Semwal,31/05/2021 12:39:45,amp also stomach flu love laying bed lyk degrees amp barphingamp direaha brewing ahhhhh loooove p,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+1206,Shubham Semwal,31/05/2021 12:39:46,amp bobby wont give kiss goodnight saaad face days,0,neutral,0.00,0.5,0.0,0.0,0.0,0.5,0,0.50
+1212,Shubham Semwal,31/05/2021 12:39:47,gt aww thanks lovely follow friday mention,1,positive,0.33,1.0,0.0,0.0,0.0,0.0,0,1.00
+1213,Shubham Semwal,31/05/2021 12:39:47,gt thoughts fatherhood amp wht makes successful guess good mine dude ask wife mine,2,Very positive,0.72,0.2,0.0,0.2,0.2,0.4,0,0.40
+1214,Shubham Semwal,31/05/2021 12:39:47,gt anyone experience defining core values companys culture lt sounds like fun,1,positive,0.30,1.0,0.0,0.0,0.0,0.0,0,1.00
+1216,Shubham Semwal,31/05/2021 12:39:47,gt im gomna today making breakfast looove song boom boom pow black eyed peas,3,negative,-0.17,0.0,0.0,0.67,0.33,0.0,2,0.67
+1217,Shubham Semwal,31/05/2021 12:39:47,true acha prolly wont go movies friends r,1,positive,0.35,1.0,0.0,0.0,0.0,0.0,0,1.00
+1218,Shubham Semwal,31/05/2021 12:39:47,trying figure twitter thingie,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1219,Shubham Semwal,31/05/2021 12:39:47,trying open book study yuckkk,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1220,Shubham Semwal,31/05/2021 12:39:48,tummyache bout time exercise amp cut greasy foods time figure bout wrk hrs im getting ready ride lifetime lt,1,positive,0.20,0.25,0.0,0.0,0.75,0.0,3,0.75
+1221,Shubham Semwal,31/05/2021 12:39:48,tweet tweet xd follow people,0,neutral,0.00,0,0,0,0,0,0,0.00
+1224,Shubham Semwal,31/05/2021 12:39:48,twitter mean youtube miley mandy vid lol,1,positive,0.24,0.0,0.0,0.0,1.0,0.0,3,1.00
+1229,Shubham Semwal,31/05/2021 12:39:49,uhh forgot well ashton great actor never comedian like ahmadinejad,2,Very positive,0.80,0.5,0.5,0.0,0.0,0.0,0,0.00
+1232,Shubham Semwal,31/05/2021 12:39:49,um yea going back doc thursday follow blood tests inquire pain side damn mess,3,negative,-0.09,0.0,0.33,0.0,0.0,0.67,0,0.67
+1233,Shubham Semwal,31/05/2021 12:39:49,umm yea goin beach day weather sux mrw earrrrly,0,neutral,0.00,0.67,0.0,0.0,0.0,0.33,0,0.67
+1237,Shubham Semwal,31/05/2021 12:39:49,urghh english coursework,0,neutral,0.00,0,0,0,0,0,0,0.00
+1240,Shubham Semwal,31/05/2021 12:39:50,victoria beckham hot ass accent wow,1,positive,0.17,0.0,0.0,0.5,0.5,0.0,0,0.00
+1242,Shubham Semwal,31/05/2021 12:39:50,vs mucked solutionproject files,0,neutral,0.00,0,0,0,0,0,0,0.00
+1244,Shubham Semwal,31/05/2021 12:39:50,waiting claire leave glendale movie tonight exploring,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1247,Shubham Semwal,31/05/2021 12:39:50,wanted see lakercav match oh well go lakers,0,neutral,0.00,0,0,0,0,0,0,0.00
+1249,Shubham Semwal,31/05/2021 12:39:51,quot ur boring got reason followquot harsh words thank u mother,4,Very negative,-0.60,0.0,0.25,0.0,0.75,0.0,3,0.75
+1250,Shubham Semwal,31/05/2021 12:39:51,quot power greyskullquot rofl,2,Very positive,0.80,0.0,1.0,0.0,0.0,0.0,1,1.00
+1251,Shubham Semwal,31/05/2021 12:39:51,quot calm killer quot coolpants,1,positive,0.30,1.0,0.0,0.0,0.0,0.0,0,1.00
+1252,Shubham Semwal,31/05/2021 12:39:51,quot buy tickets quot quot going holequot lt,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1253,Shubham Semwal,31/05/2021 12:39:51,quot come quot quot yeahquot quot decent quot quot im naked come inquot lol oh love john gosselin,1,positive,0.37,0.5,0.0,0.5,0.0,0.0,0,0.00
+1256,Shubham Semwal,31/05/2021 12:39:51,quot cause honey like kind weather youquot love part heeey maika marry haha,1,positive,0.43,1.0,0.0,0.0,0.0,0.0,0,1.00
+1257,Shubham Semwal,31/05/2021 12:39:52,quot cepet sempuh ya khalisha sayangquot p p p p well starts missing bar,3,negative,-0.20,0.0,0.0,0.0,1.0,0.0,3,1.00
+1258,Shubham Semwal,31/05/2021 12:39:52,quot chasing stars losing shadowsquot,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1260,Shubham Semwal,31/05/2021 12:39:52,quot cheat yer man get hizzead quot oh pharell,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1262,Shubham Semwal,31/05/2021 12:39:52,quot come get higher loosen lips faith desire swing hips pull hard drown lovequot nice song,1,positive,0.19,0.17,0.33,0.17,0.17,0.17,1,0.33
+1263,Shubham Semwal,31/05/2021 12:39:52,quot come backdoor ill give free quot im whore,3,negative,-0.05,0.5,0.0,0.0,0.0,0.5,0,0.50
+1267,Shubham Semwal,31/05/2021 12:39:53,quot costarquot da best song day evr sang,2,Very positive,1.00,0.5,0.0,0.5,0.0,0.0,0,0.00
+1269,Shubham Semwal,31/05/2021 12:39:53,quot depression easy harder glad alivequot dont take granted,1,positive,0.28,1.0,0.0,0.0,0.0,0.0,0,1.00
+1270,Shubham Semwal,31/05/2021 12:39:53,quot designing webquot unboxing thanks beautiful book awesome content,2,Very positive,0.68,0.25,0.0,0.5,0.0,0.25,2,0.50
+1274,Shubham Semwal,31/05/2021 12:39:54,quot know good neither got nothing say pay play fool lt quot cobra starship lt,2,Very positive,0.70,0.25,0.0,0.25,0.25,0.25,0,0.25
+1278,Shubham Semwal,31/05/2021 12:39:54,quot donquot x xx showed cancelled also x xx extremely rude threatening phone make gft girls sad amp angry,3,negative,-0.43,0.0,0.17,0.33,0.33,0.17,0,0.17
+1279,Shubham Semwal,31/05/2021 12:39:54,quot dont call son lawyer naval officer arrest son bitch witness excused quot,3,negative,-0.05,0.0,0.0,0.0,1.0,0.0,3,1.00
+1280,Shubham Semwal,31/05/2021 12:39:55,wants kiss sunbeams excited summer days,1,positive,0.29,0.67,0.0,0.0,0.33,0.0,0,0.67
+1282,Shubham Semwal,31/05/2021 12:39:55,promised sun today day,0,neutral,0.00,0.5,0.0,0.0,0.5,0.0,0,0.00
+1283,Shubham Semwal,31/05/2021 12:39:55,sick last two days missed working dont worry back game time friday watch beyonce,3,negative,-0.28,0.17,0.0,0.17,0.5,0.17,3,0.50
+1284,Shubham Semwal,31/05/2021 12:39:55,wasnt allowed drums stuck bass instead jack bruce still blew band members away natch,3,negative,-0.15,0.0,0.17,0.17,0.17,0.5,0,0.50
+1285,Shubham Semwal,31/05/2021 12:39:55,wat sad day ill miss work today sucks ass,3,negative,-0.43,0.25,0.0,0.0,0.5,0.25,3,0.50
+1286,Shubham Semwal,31/05/2021 12:39:55,watched ryan months til bff leaves japan today good thanks lord,1,positive,0.45,0.5,0.0,0.5,0.0,0.0,0,0.00
+1287,Shubham Semwal,31/05/2021 12:39:55,watchin girls board plane violet alyssum,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1288,Shubham Semwal,31/05/2021 12:39:55,watching forrest gump,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1289,Shubham Semwal,31/05/2021 12:39:56,watching celebrity get hah,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1291,Shubham Semwal,31/05/2021 12:39:56,watching second last episode boston legal ever beleive nearly,1,positive,0.08,0.0,0.0,0.67,0.33,0.0,2,0.67
+1292,Shubham Semwal,31/05/2021 12:39:56,made im still making watch bride wars hahaha,1,positive,0.20,0.0,0.0,0.33,0.67,0.0,3,0.67
+1294,Shubham Semwal,31/05/2021 12:39:56,getting ready another show like time last fri,1,positive,0.10,1.0,0.0,0.0,0.0,0.0,0,1.00
+1296,Shubham Semwal,31/05/2021 12:39:56,well dont feel pathetic guys lame,4,Very negative,-0.75,0.0,0.0,0.0,1.0,0.0,3,1.00
+1301,Shubham Semwal,31/05/2021 12:39:57,went sleep early im awake ugh,1,positive,0.10,0.0,0.0,0.0,0.5,0.5,0,0.50
+1306,Shubham Semwal,31/05/2021 12:39:57,happened town morroc curse satan morroc,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1307,Shubham Semwal,31/05/2021 12:39:57,whatever birthday letting anything get way,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1308,Shubham Semwal,31/05/2021 12:39:57,wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,0,neutral,0.00,0,0,0,0,0,0,0.00
+1311,Shubham Semwal,31/05/2021 12:39:58,walking outta bah cahful get right ya cah else via,1,positive,0.29,0.0,0.5,0.0,0.0,0.5,0,0.50
+1313,Shubham Semwal,31/05/2021 12:39:58,gt wanderin arnd whole day spent time car wher time flows faster,1,positive,0.05,0.5,0.0,0.0,0.0,0.5,0,0.50
+1315,Shubham Semwal,31/05/2021 12:39:58,gt know tweeting much tweeples start telling tweeting usual high standards cute,1,positive,0.15,0.33,0.0,0.0,0.33,0.33,0,0.33
+1320,Shubham Semwal,31/05/2021 12:39:59,gt lt coffee gave headache,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1323,Shubham Semwal,31/05/2021 12:39:59,gt lt got stuck car wash really angry man behind fun,3,negative,-0.20,0.17,0.17,0.17,0.17,0.33,0,0.33
+1325,Shubham Semwal,31/05/2021 12:39:59,lt hit twitpocalypse iphone work,0,neutral,0.00,0.0,0.5,0.0,0.0,0.5,0,0.50
+1327,Shubham Semwal,31/05/2021 12:39:59,lt even make stairs way change bathing suit doorbell rang,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1328,Shubham Semwal,31/05/2021 12:39:59,lt excruciating headache teeth killing whole face hurts wtf,3,negative,-0.15,0.0,0.0,0.2,0.4,0.4,0,0.40
+1329,Shubham Semwal,31/05/2021 12:39:59,lt feelin lil pathetic seems like im tweeting,4,Very negative,-1.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1331,Shubham Semwal,31/05/2021 12:40:00,lt going tha park sisas brudas,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1334,Shubham Semwal,31/05/2021 12:40:00,lt hungry craving chicken noodle soup soup general think lot dreary weather wa,3,negative,-0.27,0.2,0.0,0.2,0.4,0.2,3,0.40
+1335,Shubham Semwal,31/05/2021 12:40:00,lt pretty sure mstrkrft melted face last might justin says still,1,positive,0.25,0.2,0.2,0.2,0.0,0.4,0,0.40
+1336,Shubham Semwal,31/05/2021 12:40:00,lt listening fuck lamb god,3,negative,-0.40,0.5,0.0,0.5,0.0,0.0,0,0.00
+1338,Shubham Semwal,31/05/2021 12:40:00,lt got called early work bc dude works called millionth time silver lining mo money,1,positive,0.10,0.0,0.0,0.0,0.0,1.0,0,1.00
+1340,Shubham Semwal,31/05/2021 12:40:01,lt needs stop reading tweets crying like baby hello ddub hello,3,negative,-0.20,0,0,0,0,0,0,0.00
+1342,Shubham Semwal,31/05/2021 12:40:01,flip everyone anyone heard w end,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+1343,Shubham Semwal,31/05/2021 12:40:01,white haired cats deaf,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1344,Shubham Semwal,31/05/2021 12:40:01,mates basically relationships got none even close,0,neutral,0.00,0.5,0.0,0.0,0.0,0.5,0,0.50
+1345,Shubham Semwal,31/05/2021 12:40:01,always problems reason,0,neutral,0.00,0.0,0.0,0.0,0.67,0.33,3,0.67
+1346,Shubham Semwal,31/05/2021 12:40:01,pet care people try run others business send suspicious e mails fishing info,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1348,Shubham Semwal,31/05/2021 12:40:01,everyone want runaway,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1349,Shubham Semwal,31/05/2021 12:40:01,favourite model never win tv reality competitions,3,negative,-0.40,0.5,0.0,0.0,0.0,0.5,0,0.50
+1352,Shubham Semwal,31/05/2021 12:40:02,heart sooooo sad soul joyful,3,negative,-0.50,0.25,0.0,0.25,0.5,0.0,3,0.50
+1354,Shubham Semwal,31/05/2021 12:40:02,phone ringing feel like broke,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1355,Shubham Semwal,31/05/2021 12:40:02,whole freakin left leg damaged cures lol,1,positive,0.33,0.0,0.0,0.0,0.0,1.0,0,1.00
+1357,Shubham Semwal,31/05/2021 12:40:02,wiltssy cheer guys r guys n going get better,1,positive,0.50,0.33,0.0,0.33,0.0,0.33,0,0.33
+1358,Shubham Semwal,31/05/2021 12:40:02,wish could go buh gota stay revision well hott ere omg finally aving british summer promised haha x,1,positive,0.07,0.2,0.2,0.2,0.2,0.2,0,0.20
+1359,Shubham Semwal,31/05/2021 12:40:02,wish could update twitter mobile phone,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1360,Shubham Semwal,31/05/2021 12:40:02,wish mass effect eas press conference,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+1361,Shubham Semwal,31/05/2021 12:40:03,wish post dengue crap according doc may last months pain pain pain,3,negative,-0.40,0.0,0.0,0.5,0.0,0.5,0,0.50
+1363,Shubham Semwal,31/05/2021 12:40:03,wishing could hibernate winter,0,neutral,0.00,0,0,0,0,0,0,0.00
+1364,Shubham Semwal,31/05/2021 12:40:03,airman today woo hoo well kind lol,2,Very positive,0.70,0.5,0.0,0.5,0.0,0.0,0,0.00
+1367,Shubham Semwal,31/05/2021 12:40:03,quot dont eat cause poop week trust know quot lol got love men,2,Very positive,0.65,0.33,0.0,0.0,0.0,0.67,0,0.67
+1368,Shubham Semwal,31/05/2021 12:40:03,quot dont get wrong pulling whole thing crapshoot waiting happen quot hahahaha great show,1,positive,0.18,0.25,0.0,0.5,0.0,0.25,2,0.50
+1371,Shubham Semwal,31/05/2021 12:40:04,quot dont lie mamaquot sam funny,1,positive,0.25,0.0,0.0,1.0,0.0,0.0,2,1.00
+1373,Shubham Semwal,31/05/2021 12:40:04,quot dramatic moment grocery store wait gas station quot lmao shelby,1,positive,0.08,0.0,0.0,0.5,0.0,0.5,0,0.50
+1374,Shubham Semwal,31/05/2021 12:40:04,quot dream better world comingquot someone could live words dude,1,positive,0.32,0.0,0.5,0.5,0.0,0.0,0,0.00
+1381,Shubham Semwal,31/05/2021 12:40:05,quot eternal sunshinequot myhrr portos open window livingston sangria texting w friday night,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1382,Shubham Semwal,31/05/2021 12:40:05,quot eu sees china unsafe products hitting record highquot quot toys made almost third dangerous products quot,3,negative,-0.30,0.0,0.25,0.0,0.25,0.5,0,0.50
+1383,Shubham Semwal,31/05/2021 12:40:05,quot even turkey fly tornado quot dave ramsey lol,2,Very positive,0.80,0.0,0.0,0.0,0.0,1.0,0,1.00
+1386,Shubham Semwal,31/05/2021 12:40:06,quot every little bump road tried swerve nothing say going save us falloutquot good morning,1,positive,0.26,0.25,0.0,0.5,0.0,0.25,2,0.50
+1387,Shubham Semwal,31/05/2021 12:40:06,quot everybodys saying coming home quot worst song family couldve heard time like,4,Very negative,-1.00,0.0,0.0,0.6,0.4,0.0,2,0.60
+1390,Shubham Semwal,31/05/2021 12:40:06,quot everyone one special thing quot guy sets record longest pronunciation word quot freshquot,1,positive,0.36,0.0,0.25,0.5,0.0,0.25,2,0.50
+1392,Shubham Semwal,31/05/2021 12:40:06,quot everytime alone homie checkin homie knew got lot freak baybayy quot yup,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1394,Shubham Semwal,31/05/2021 12:40:07,quot ey ey baby maybe show lady make lady tonight quot thanks jake great night tonite,1,positive,0.50,0.5,0.0,0.0,0.5,0.0,0,0.00
+1396,Shubham Semwal,31/05/2021 12:40:07,quot faith assurance things hoped conviction things seen quot theres problem visual learner,0,neutral,0.00,0.0,0.0,0.6,0.0,0.4,2,0.60
+1397,Shubham Semwal,31/05/2021 12:40:07,woots gnite love ty checkin love u,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+1403,Shubham Semwal,31/05/2021 12:40:08,working decades project,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1404,Shubham Semwal,31/05/2021 12:40:08,wow figured thrillbilly,1,positive,0.10,0.0,0.0,1.0,0.0,0.0,2,1.00
+1405,Shubham Semwal,31/05/2021 12:40:08,xbox controller batterys youu bitch fml,0,neutral,0.00,0,0,0,0,0,0,0.00
+1407,Shubham Semwal,31/05/2021 12:40:08,u didnt answer baby oh well bouta call nite,0,neutral,0.00,0,0,0,0,0,0,0.00
+1410,Shubham Semwal,31/05/2021 12:40:09,yay boating sunshine fun times friends,1,positive,0.30,1.0,0.0,0.0,0.0,0.0,0,1.00
+1413,Shubham Semwal,31/05/2021 12:40:09,yay tarryn nothando voula portukalos steyn matyila clooney approves,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+1414,Shubham Semwal,31/05/2021 12:40:09,yayz todays day call see got job x ish happy even though slept horribly kind drained,2,Very positive,0.70,0.5,0.0,0.0,0.17,0.33,0,0.50
+1421,Shubham Semwal,31/05/2021 12:40:10,yummy donuts thanks dad,1,positive,0.20,0,0,0,0,0,0,0.00
+1422,Shubham Semwal,31/05/2021 12:40:10,guys lot free time want hobbit name,1,positive,0.40,0.5,0.0,0.0,0.5,0.0,0,0.00
+1423,Shubham Semwal,31/05/2021 12:40:10,aaahhhhhh excited pushi home okay aawww im happy right,1,positive,0.49,0.25,0.0,0.0,0.5,0.25,3,0.50
+1424,Shubham Semwal,31/05/2021 12:40:10,left teddy bear kim amp scotts,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1427,Shubham Semwal,31/05/2021 12:40:10,timewarp pictures finally online srry let u guys waitin xx,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+1428,Shubham Semwal,31/05/2021 12:40:10,new hair thanks adam lilly bad apple brum pic follow,3,negative,-0.12,0.0,0.0,0.5,0.5,0.0,0,0.00
+1429,Shubham Semwal,31/05/2021 12:40:11,working anyone phoenix seems kind useless right,1,positive,0.13,0.25,0.0,0.0,0.25,0.5,0,0.50
+1430,Shubham Semwal,31/05/2021 12:40:11,see move neat done provides deniablity incumbent game,3,negative,-0.40,0,0,0,0,0,0,0.00
+1434,Shubham Semwal,31/05/2021 12:40:11,saying one time skagway actually news kid love,1,positive,0.25,0.5,0.0,0.5,0.0,0.0,0,0.00
+1436,Shubham Semwal,31/05/2021 12:40:11,hailer nonworking cmd post crew cmd give respond,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1439,Shubham Semwal,31/05/2021 12:40:12,kde rekonq sure looks good even version think going become default browser,2,Very positive,0.60,0.25,0.0,0.25,0.0,0.5,0,0.50
+1443,Shubham Semwal,31/05/2021 12:40:12,brokeback mountain great short story explains oddly enough movie even though cover chronological ground,1,positive,0.20,0.25,0.25,0.0,0.25,0.25,0,0.25
+1447,Shubham Semwal,31/05/2021 12:40:13,galahad poland mo lucky gits,1,positive,0.33,1.0,0.0,0.0,0.0,0.0,0,1.00
+1449,Shubham Semwal,31/05/2021 12:40:13,amp big fat quot rib eye cooked perfection spoiled piece chicken breast suitable substitute,3,negative,-0.02,0.0,0.0,0.0,0.0,1.0,0,1.00
+1450,Shubham Semwal,31/05/2021 12:40:13,get ready new semester sigh going back campus tomorrow,1,positive,0.11,0.33,0.0,0.0,0.33,0.33,0,0.33
+1452,Shubham Semwal,31/05/2021 12:40:14,lt surprised matter time windows reached great level failure achieved,1,positive,0.19,0.25,0.0,0.25,0.25,0.25,0,0.25
+1455,Shubham Semwal,31/05/2021 12:40:14,lt still hungry still eatin,0,neutral,0.00,0,0,0,0,0,0,0.00
+1456,Shubham Semwal,31/05/2021 12:40:14,lt thinks needs give tour brooklyn im dyin come,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+1457,Shubham Semwal,31/05/2021 12:40:14,lt winchesterlambourne etsy com name long tweet,3,negative,-0.05,0.0,0.0,0.0,0.0,1.0,0,1.00
+1458,Shubham Semwal,31/05/2021 12:40:14,lt gt amazing day today thanks nin lt gt,1,positive,0.40,0.5,0.0,0.5,0.0,0.0,0,0.00
+1463,Shubham Semwal,31/05/2021 12:40:15,lt neither mins ago builders since keep looking strangely whenever appear jimjams,3,negative,-0.05,0.0,0.0,0.33,0.67,0.0,3,0.67
+1464,Shubham Semwal,31/05/2021 12:40:15,lt upset calendar bb got erased somehow along notes written rs firsts could dates,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+1466,Shubham Semwal,31/05/2021 12:40:15,lt grateful unlimited texting text msg today hope plotting whereabouts day lol amp still home,2,Very positive,0.80,0.5,0.0,0.0,0.25,0.25,0,0.50
+1467,Shubham Semwal,31/05/2021 12:40:15,lt lt lt holy shit best words lt lt lt,1,positive,0.40,0.0,0.33,0.67,0.0,0.0,2,0.67
+1468,Shubham Semwal,31/05/2021 12:40:16,lt see home lol glad enjoying twitter activites,2,Very positive,0.60,0.5,0.0,0.0,0.5,0.0,0,0.00
+1469,Shubham Semwal,31/05/2021 12:40:16,lt almost summer vacation yes strange girl enjoys working summer camp every year,3,negative,-0.05,0.43,0.0,0.14,0.14,0.29,0,0.43
+1470,Shubham Semwal,31/05/2021 12:40:16,lt beatles rockband watching todays e recorded g,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1472,Shubham Semwal,31/05/2021 12:40:16,lt joe dempsie lt hungry think chinese dinner mmmm,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1473,Shubham Semwal,31/05/2021 12:40:16,lt monica allison miss na,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1475,Shubham Semwal,31/05/2021 12:40:16,lt accountant lt works wonders year bright little light knowing gtg taxes,1,positive,0.30,0.33,0.0,0.33,0.0,0.33,0,0.33
+1479,Shubham Semwal,31/05/2021 12:40:17,lt broken myspace isnt coming vegas anywhere close im going cry river fair,1,positive,0.15,0.25,0.0,0.5,0.0,0.25,2,0.50
+1481,Shubham Semwal,31/05/2021 12:40:17,reason would like new moon trailer laurent obviously confront bella quot edwards meadowquot,1,positive,0.07,0.0,0.0,0.0,0.67,0.33,3,0.67
+1483,Shubham Semwal,31/05/2021 12:40:17,video stream slow work canada,3,negative,-0.30,0.0,0.0,0.0,0.0,1.0,0,1.00
+1485,Shubham Semwal,31/05/2021 12:40:17,thebackdoor ones want get wrinkly cancer tumblr full,1,positive,0.35,0.0,0.0,0.0,0.0,1.0,0,1.00
+1488,Shubham Semwal,31/05/2021 12:40:18,quot god loves uquot day everyday believe,3,negative,-0.20,0.67,0.0,0.33,0.0,0.0,0,0.67
+1490,Shubham Semwal,31/05/2021 12:40:18,cant count fitting trend,1,positive,0.50,0.5,0.0,0.0,0.0,0.5,0,0.50
+1491,Shubham Semwal,31/05/2021 12:40:18,quot white sox fanquot represent views tangible worldwide,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1492,Shubham Semwal,31/05/2021 12:40:18,voted obama amp amp wan na nail palin lol said sarah palin yee yee lol love snl missed today,1,positive,0.48,0.25,0.0,0.25,0.5,0.0,3,0.50
+1493,Shubham Semwal,31/05/2021 12:40:18,crappy itouch speakers,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1494,Shubham Semwal,31/05/2021 12:40:18,lets friends used one time,0,neutral,0.00,0.5,0.0,0.0,0.5,0.0,0,0.00
+1496,Shubham Semwal,31/05/2021 12:40:18,quot husbands home quot true story kiidding,1,positive,0.35,0.0,0.0,0.0,1.0,0.0,3,1.00
+1497,Shubham Semwal,31/05/2021 12:40:18,quot really smell quot excited trip tomorrow excited missing tomorrow,1,positive,0.19,0.0,0.0,0.2,0.6,0.2,3,0.60
+1498,Shubham Semwal,31/05/2021 12:40:19,whos next hahahaha lol,1,positive,0.33,0,0,0,0,0,0,0.00
+1499,Shubham Semwal,31/05/2021 12:40:19,firmware update mostly video oriented want auto iso improvement minimal shuttle speed,1,positive,0.20,0,0,0,0,0,0,0.00
+1500,Shubham Semwal,31/05/2021 12:40:19,redi tells naked scientist wants evolve halle berry redi halle would never able finish,3,negative,-0.02,0.0,0.0,0.0,0.33,0.67,0,0.67
+1501,Shubham Semwal,31/05/2021 12:40:19,breakdowns bc precursor breakthroughs game enjoy,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+1503,Shubham Semwal,31/05/2021 12:40:19,lt c b mothers day tomorrow,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+1504,Shubham Semwal,31/05/2021 12:40:19,lt carl russel doug kevin haha like awww amp ha ha good night,1,positive,0.43,1.0,0.0,0.0,0.0,0.0,0,1.00
+1510,Shubham Semwal,31/05/2021 12:40:20,lt broke cycle get brownie pin need anything peace knowing bums around,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+1511,Shubham Semwal,31/05/2021 12:40:20,lt font color purplegt purple lt font color bluegt blue lt font color blackgt lt font color greengt green,3,negative,-0.10,0.0,0.17,0.0,0.83,0.0,3,0.83
+1518,Shubham Semwal,31/05/2021 12:40:21,lt kethryvisgt gruuk ufies beyond human race,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1519,Shubham Semwal,31/05/2021 12:40:21,lt lonely guy got ta kill hours till drive lax,3,negative,-0.10,0.0,0.0,0.33,0.33,0.33,0,0.33
+1526,Shubham Semwal,31/05/2021 12:40:22,quot become human transformer virtual router connect others quot rms,0,neutral,0.00,0,0,0,0,0,0,0.00
+1527,Shubham Semwal,31/05/2021 12:40:22,quot brazil screams one voice love miley cyrus quot,1,positive,0.50,0.5,0.0,0.0,0.0,0.5,0,0.50
+1530,Shubham Semwal,31/05/2021 12:40:22,quot hate disappoint mine lyrics safe book thanks concern quot ohhhhhhhhhh,3,negative,-0.03,0.0,0.0,0.0,1.0,0.0,3,1.00
+1531,Shubham Semwal,31/05/2021 12:40:22,quot need next love know quot soo sad,0,neutral,0.00,0.5,0.0,0.0,0.5,0.0,0,0.00
+1536,Shubham Semwal,31/05/2021 12:40:23,quot find gideon save us quot chris dying always makes cry,0,neutral,0.00,0.0,0.0,0.0,0.67,0.33,3,0.67
+1538,Shubham Semwal,31/05/2021 12:40:23,quot fire shower nuclearquot something want read right go bed,1,positive,0.29,0.0,0.0,0.0,0.0,1.0,0,1.00
+1539,Shubham Semwal,31/05/2021 12:40:23,quot flashing lightsquot lights cut kind groove,2,Very positive,0.60,0.5,0.0,0.0,0.5,0.0,0,0.00
+1543,Shubham Semwal,31/05/2021 12:40:24,quot god loved world quot sweet forgot john,2,Very positive,0.52,0.33,0.33,0.33,0.0,0.0,0,0.00
+1545,Shubham Semwal,31/05/2021 12:40:24,quot friends like stars u see u feel u look amp realize fell hence meaning falling starquot,0,neutral,0.00,0.5,0.5,0.0,0.0,0.0,0,0.00
+1548,Shubham Semwal,31/05/2021 12:40:24,quot fuck alphabetti spaghetti never want eat carbs quot girl owns heart ily sophie,3,negative,-0.40,0.25,0.0,0.25,0.25,0.25,0,0.25
+1550,Shubham Semwal,31/05/2021 12:40:24,quot get rage takes dance babyquot listening myspace,0,neutral,0.00,0.0,0.0,0.33,0.0,0.67,0,0.67
+1551,Shubham Semwal,31/05/2021 12:40:24,quot girl cheese soupquot,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1555,Shubham Semwal,31/05/2021 12:40:25,quot god give patience give quicklyquot min trip amp nd pee stop,0,neutral,0.00,0.0,0.0,0.25,0.25,0.5,0,0.50
+1556,Shubham Semwal,31/05/2021 12:40:25,quot god love textingquot text mom cell,1,positive,0.50,0.5,0.0,0.5,0.0,0.0,0,0.00
+1558,Shubham Semwal,31/05/2021 12:40:25,quot good morning sunshine earth says hello quot johnny depp willy wonka,2,Very positive,0.70,0.33,0.0,0.67,0.0,0.0,2,0.67
+1563,Shubham Semwal,31/05/2021 12:40:26,quot grandma gave dirtiest look ive ever seen lifequot haha,1,positive,0.20,0.0,0.0,0.5,0.0,0.5,0,0.50
+1566,Shubham Semwal,31/05/2021 12:40:27,quot hahah jealous thin fat bitch legs half size gutted quot nice know truth,1,positive,0.01,0.5,0.0,0.0,0.5,0.0,0,0.00
+1568,Shubham Semwal,31/05/2021 12:40:27,quot mileycyrus want perform lady gaga one day quot world would def rocked,0,neutral,0.00,0.5,0.0,0.0,0.0,0.5,0,0.50
+1569,Shubham Semwal,31/05/2021 12:40:27,quot yer beautiful joshua trees palmdale innocent babys getting kidnapped homes,2,Very positive,0.68,0.25,0.0,0.0,0.5,0.25,3,0.50
+1572,Shubham Semwal,31/05/2021 12:40:28,quot quot workquot quot facebook myspace come ok wished done french earlier maybe would remember exactly put,1,positive,0.19,0.0,0.0,0.0,0.5,0.5,0,0.50
+1578,Shubham Semwal,31/05/2021 12:40:28,quot quot love write back pls,1,positive,0.25,1.0,0.0,0.0,0.0,0.0,0,1.00
+1581,Shubham Semwal,31/05/2021 12:40:29,quot quot via good morning thx musicamp props,2,Very positive,0.70,1.0,0.0,0.0,0.0,0.0,0,1.00
+1582,Shubham Semwal,31/05/2021 12:40:29,quot amazing properly laughing room great sent haha,1,positive,0.40,0.4,0.0,0.2,0.0,0.4,0,0.40
+1584,Shubham Semwal,31/05/2021 12:40:29,quot quot sounds good,2,Very positive,0.70,1.0,0.0,0.0,0.0,0.0,0,1.00
+1591,Shubham Semwal,31/05/2021 12:40:30,quot ts like actors become soulfish really quot sandyyy sooo great,1,positive,0.50,0.5,0.0,0.5,0.0,0.0,0,0.00
+1593,Shubham Semwal,31/05/2021 12:40:30,quot hairsprayquot music vastly overrated sing four weekends straight,1,positive,0.10,0,0,0,0,0,0,0.00
+1594,Shubham Semwal,31/05/2021 12:40:30,quot hakuna matataquot means worries rest days,0,neutral,0.00,0.5,0.0,0.0,0.5,0.0,0,0.00
+1595,Shubham Semwal,31/05/2021 12:40:30,quot hand shredded ass meat quot makes glad vegetarian,1,positive,0.50,0.5,0.0,0.0,0.5,0.0,0,0.00
+1597,Shubham Semwal,31/05/2021 12:40:31,quot hangoverquot far funniest movie ever must see,1,positive,0.10,0.0,0.0,0.5,0.0,0.5,0,0.50
+1603,Shubham Semwal,31/05/2021 12:40:31,quot finger heartquot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1605,Shubham Semwal,31/05/2021 12:40:32,quot says name thank god beef quot quot shia labeouf quot haha clue,1,positive,0.20,0.0,0.0,1.0,0.0,0.0,2,1.00
+1606,Shubham Semwal,31/05/2021 12:40:32,quot health care already gummed death quot kevin baker,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1613,Shubham Semwal,31/05/2021 12:40:33,quot hes reason teardrops guitar thing keeps wishing wishing starquot doesnt get,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+1617,Shubham Semwal,31/05/2021 12:40:33,quot hey ollie must day heaven angel like amongst us quot omg squidoo polite,0,neutral,0.00,0.4,0.0,0.6,0.0,0.0,2,0.60
+1619,Shubham Semwal,31/05/2021 12:40:34,quot hi ross quot hi ross,0,neutral,0.00,0,0,0,0,0,0,0.00
+1621,Shubham Semwal,31/05/2021 12:40:34,quot last name bigwoodquot hope true quot found yet still hoping,1,positive,0.17,0.0,0.0,0.0,0.0,1.0,0,1.00
+1623,Shubham Semwal,31/05/2021 12:40:34,quot homaquot going home parents th wedding anniversary st,0,neutral,0.00,0.0,0.0,0.0,0.33,0.67,0,0.67
+1624,Shubham Semwal,31/05/2021 12:40:34,quot dysen zerine google earthquot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1626,Shubham Semwal,31/05/2021 12:40:34,quot adverse side effects abnormal behavior quot damn first one even taking,1,positive,0.25,0.0,0.0,0.75,0.0,0.25,2,0.75
+1627,Shubham Semwal,31/05/2021 12:40:35,quot seven decades archie andrews finally decided end pop cultures famous love triangle quot much process,1,positive,0.30,0.33,0.0,0.0,0.0,0.67,0,0.67
+1628,Shubham Semwal,31/05/2021 12:40:35,quot age strictly case mind matter mind matter quot jack benny precisely needed hear today,1,positive,0.40,0.0,0.17,0.33,0.17,0.33,0,0.33
+1631,Shubham Semwal,31/05/2021 12:40:35,quot result thoughtquot buddah think positive fabulous twitterverse,1,positive,0.31,0.5,0.0,0.5,0.0,0.0,0,0.00
+1632,Shubham Semwal,31/05/2021 12:40:35,quot rainbows sky start weep say goodbye seeing rainbows morequot,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+1635,Shubham Semwal,31/05/2021 12:40:36,quot keep breathing quot invad tu privacidad perdn en serio im sorry,3,negative,-0.50,0.0,0.0,0.0,0.5,0.5,0,0.50
+1636,Shubham Semwal,31/05/2021 12:40:36,quot women become like mothers tragedy man thats quot oscar wilde happy mothers day moms,2,Very positive,0.80,1.0,0.0,0.0,0.0,0.0,0,1.00
+1638,Shubham Semwal,31/05/2021 12:40:36,quot already gonequot kelly clarkson,0,neutral,0.00,0,0,0,0,0,0,0.00
+1639,Shubham Semwal,31/05/2021 12:40:36,quot alright bring someone group kick make shirtsquot ohh dear strictly love,1,positive,0.50,0.17,0.0,0.5,0.33,0.0,2,0.50
+1640,Shubham Semwal,31/05/2021 12:40:36,quot way already quot typically mind,3,negative,-0.17,0.0,0.0,1.0,0.0,0.0,2,1.00
+1645,Shubham Semwal,31/05/2021 12:40:37,quot miss need doquot lt hungry,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1647,Shubham Semwal,31/05/2021 12:40:37,quot clinging promise yet quot love ginny owens,1,positive,0.50,0.33,0.0,0.0,0.33,0.33,0,0.33
+1650,Shubham Semwal,31/05/2021 12:40:37,quot mom friend drinking greatt quot,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+1652,Shubham Semwal,31/05/2021 12:40:38,quot dishes run water hot fill sink top bubbles soap quot,1,positive,0.38,0.0,0.0,0.17,0.67,0.17,3,0.67
+1653,Shubham Semwal,31/05/2021 12:40:38,still st regis oh asia tour,0,neutral,0.00,0,0,0,0,0,0,0.00
+1657,Shubham Semwal,31/05/2021 12:40:38,cursing ugh horrid habbit,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+1661,Shubham Semwal,31/05/2021 12:40:38,france confirms captain amp one cabin crew identified hope may swift journey home families,0,neutral,0.00,0.17,0.0,0.17,0.17,0.5,0,0.50
+1662,Shubham Semwal,31/05/2021 12:40:38,france heart breaks families bodies found,0,neutral,0.00,0.0,0.0,0.67,0.33,0.0,2,0.67
+1666,Shubham Semwal,31/05/2021 12:40:39,thinking concept autorefresh made mistake,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+1667,Shubham Semwal,31/05/2021 12:40:39,making feel old lots good insight,1,positive,0.40,0.25,0.0,0.0,0.5,0.25,3,0.50
+1668,Shubham Semwal,31/05/2021 12:40:39,musical bliss soon iron bugs amazing,1,positive,0.30,0.0,0.0,0.33,0.33,0.33,0,0.33
+1669,Shubham Semwal,31/05/2021 12:40:39,damn works says somthing else,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+1670,Shubham Semwal,31/05/2021 12:40:39,trendy get trending trendy,2,Very positive,0.60,0,0,0,0,0,0,0.00
+1671,Shubham Semwal,31/05/2021 12:40:39,testing api work anymore,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1673,Shubham Semwal,31/05/2021 12:40:39,begining feel like want eat chocolate,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1675,Shubham Semwal,31/05/2021 12:40:40,consider lost business removing krisflyer gold clubhouse welcome list business going united,2,Very positive,0.80,0.14,0.0,0.0,0.29,0.57,0,0.57
+1676,Shubham Semwal,31/05/2021 12:40:40,daniel kandi tearing roof,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+1682,Shubham Semwal,31/05/2021 12:40:40,quot anvilquot awesome heart warming involved heavy metal,1,positive,0.40,0.0,0.0,0.2,0.4,0.4,0,0.40
+1684,Shubham Semwal,31/05/2021 12:40:40,quot anybody says lyringquot kelly clarkson admits pees shower dares admit read mag,0,neutral,0.00,0.0,0.0,0.25,0.5,0.25,3,0.50
+1686,Shubham Semwal,31/05/2021 12:40:41,quot approachingquot would made sense quot appearquot,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+1688,Shubham Semwal,31/05/2021 12:40:41,quot okay quot asked arkain quot depends okay quot replied gemma part always gets feel,1,positive,0.50,0.0,0.0,0.0,0.5,0.5,0,0.50
+1689,Shubham Semwal,31/05/2021 12:40:41,quot arrange whatever pieces come way quot virginia woolf ht slade youre good making get,2,Very positive,0.70,0.5,0.0,0.0,0.5,0.0,0,0.00
+1692,Shubham Semwal,31/05/2021 12:40:42,quot go remember times together lives change whatever still friends foreverquot,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+1695,Shubham Semwal,31/05/2021 12:40:42,quot first afraid pretrified quot,3,negative,-0.17,0.0,0.0,0.5,0.0,0.5,0,0.50
+1696,Shubham Semwal,31/05/2021 12:40:42,quot baby baby babyquot version belge,0,neutral,0.00,0,0,0,0,0,0,0.00
+1698,Shubham Semwal,31/05/2021 12:40:42,quot battery legquot blur makes feel sad especially live version thanks jessica,3,negative,-0.01,0.0,0.0,0.0,1.0,0.0,3,1.00
+1700,Shubham Semwal,31/05/2021 12:40:42,quot battlefieldquot jordin sparks quot alright okquot ashley tisdale quot paranoidquot jonas brothers,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1704,Shubham Semwal,31/05/2021 12:40:43,quot knew changed goodquot got ta love wicked streamers let beginning show,1,positive,0.50,0.5,0.0,0.0,0.5,0.0,0,0.00
+1705,Shubham Semwal,31/05/2021 12:40:43,quot thing halfway crooks quot mile,0,neutral,0.00,0.0,0.0,0.5,0.5,0.0,0,0.00
+1706,Shubham Semwal,31/05/2021 12:40:43,quot kill lovequot gwse,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1707,Shubham Semwal,31/05/2021 12:40:43,quot stormquot finished quot burnin quot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1708,Shubham Semwal,31/05/2021 12:40:43,quot confident thing begun good work complete day jesus christquot phil,1,positive,0.43,0.4,0.0,0.2,0.0,0.4,0,0.40
+1709,Shubham Semwal,31/05/2021 12:40:43,quot hookah ghetto form cigarsquot said course quote,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1712,Shubham Semwal,31/05/2021 12:40:43,quot housequot holy moly moment soon,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1713,Shubham Semwal,31/05/2021 12:40:43,quot fight im busy loving busy loving youquot shes lady,1,positive,0.35,0.4,0.0,0.0,0.2,0.4,0,0.40
+1714,Shubham Semwal,31/05/2021 12:40:44,quot like applesquot movie rio bravo good hunting make lot sense,2,Very positive,0.70,0.2,0.0,0.4,0.4,0.0,0,0.00
+1717,Shubham Semwal,31/05/2021 12:40:44,quot old quot quot twenty seven quot quot think ok married yet quot thanks unsolicited approval year old,1,positive,0.23,0.5,0.0,0.5,0.0,0.0,0,0.00
+1718,Shubham Semwal,31/05/2021 12:40:44,quot sweet love someone right care quot never get sick song enjoy,1,positive,0.16,0.5,0.0,0.0,0.25,0.25,0,0.50
+1720,Shubham Semwal,31/05/2021 12:40:44,quot clean room ten minutesquot wonderful article,1,positive,0.46,0.0,0.0,0.5,0.0,0.5,0,0.50
+1721,Shubham Semwal,31/05/2021 12:40:45,quot hows going quot rhetorical question often asked without sincerity sincerely answering great detail quite amusing response,2,Very positive,0.63,0.17,0.0,0.0,0.17,0.67,0,0.67
+1722,Shubham Semwal,31/05/2021 12:40:45,quot vampire vampire lost fangs quot haha love juno,1,positive,0.35,0.5,0.0,0.0,0.5,0.0,0,0.00
+1723,Shubham Semwal,31/05/2021 12:40:45,quot mclovinquot watching superbad,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1727,Shubham Semwal,31/05/2021 12:40:45,quot call everything love redro dont mom bwhahaha quot droll son droll never told ad,1,positive,0.50,0.33,0.0,0.0,0.67,0.0,3,0.67
+1730,Shubham Semwal,31/05/2021 12:40:45,quot believe song ipodquot haha,1,positive,0.20,0,0,0,0,0,0,0.00
+1733,Shubham Semwal,31/05/2021 12:40:46,quot take longer though strongerquot someone thought loved,2,Very positive,0.70,0.33,0.0,0.33,0.33,0.0,0,0.00
+1735,Shubham Semwal,31/05/2021 12:40:46,quot care bitch think amp hoe feel cuz aint nay hoes payin bills quot trina got going morning,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+1736,Shubham Semwal,31/05/2021 12:40:46,quot know act cuz lost head must paranoidquot,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+1738,Shubham Semwal,31/05/2021 12:40:46,quot know want ask coz still trying figure quot taylor swift,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1742,Shubham Semwal,31/05/2021 12:40:47,take astd comp model amp translate globalization innovation transformation strategic enablement watch,0,neutral,0.00,0.0,0.0,0.5,0.0,0.5,0,0.50
+1745,Shubham Semwal,31/05/2021 12:40:47,never knew supernatural convention might gone,1,positive,0.17,0.0,0.5,0.0,0.0,0.5,0,0.50
+1747,Shubham Semwal,31/05/2021 12:40:47,vids uploaded wtf js speak longer seconds wo fans screaming shut cant hear,3,negative,-0.50,0.0,0.33,0.0,0.33,0.33,0,0.33
+1751,Shubham Semwal,31/05/2021 12:40:48,delete number phone b leave room,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1752,Shubham Semwal,31/05/2021 12:40:48,cant go bed yet lol stupid myspazz wont let read message,1,positive,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1755,Shubham Semwal,31/05/2021 12:40:48,freddies voice annoying enjoying series far though,3,negative,-0.07,0.2,0.0,0.0,0.4,0.4,0,0.40
+1756,Shubham Semwal,31/05/2021 12:40:48,danger losing viewer hour pretty much nothing ask hour back,1,positive,0.15,0.25,0.0,0.0,0.25,0.5,0,0.50
+1758,Shubham Semwal,31/05/2021 12:40:48,tea sausage burger cajuan chicken potatoe salad coleslaw savory rice salad good times,1,positive,0.05,0.5,0.0,0.0,0.0,0.5,0,0.50
+1760,Shubham Semwal,31/05/2021 12:40:48,planning keep posting twitter end subject curious,3,negative,-0.13,0.0,0.0,0.5,0.5,0.0,0,0.00
+1761,Shubham Semwal,31/05/2021 12:40:49,tech crash bb working discovered twittermail stay tuned,0,neutral,0.00,0.0,0.25,0.5,0.0,0.25,2,0.50
+1764,Shubham Semwal,31/05/2021 12:40:49,lots seats unsold day show buyers charged,0,neutral,0.00,0.67,0.0,0.0,0.33,0.0,0,0.67
+1765,Shubham Semwal,31/05/2021 12:40:49,stavros wins finishing bottle although may finish first gt gt,1,positive,0.28,0.0,0.0,0.5,0.0,0.5,0,0.50
+1767,Shubham Semwal,31/05/2021 12:40:49,nites pretty good far bit dissapointing susan next ready full standing ovation peeps lol,1,positive,0.34,0.6,0.0,0.0,0.0,0.4,0,0.60
+1772,Shubham Semwal,31/05/2021 12:40:50,feel bit sad susan boyle,3,negative,-0.50,0.0,0.0,0.0,1.0,0.0,3,1.00
+1774,Shubham Semwal,31/05/2021 12:40:50,nice singer entertaining stavros,2,Very positive,0.55,1.0,0.0,0.0,0.0,0.0,0,1.00
+1775,Shubham Semwal,31/05/2021 12:40:50,box soon hopefully th boil susan maybe boyle wont win stavros flatley chequered flag,2,Very positive,0.80,0.0,0.0,0.0,1.0,0.0,3,1.00
+1776,Shubham Semwal,31/05/2021 12:40:50,stravros flatley singers pretty much sod x factor suspect singer win,1,positive,0.42,0.33,0.0,0.33,0.0,0.33,0,0.33
+1777,Shubham Semwal,31/05/2021 12:40:50,quite awkward moment poor girl hope loose,3,negative,-0.36,0.0,0.0,0.25,0.25,0.5,0,0.50
+1778,Shubham Semwal,31/05/2021 12:40:50,susan boyle diversity britains got talent shaheen stavros flatley lt go away,0,neutral,0.00,0.0,1.0,0.0,0.0,0.0,1,1.00
+1780,Shubham Semwal,31/05/2021 12:40:51,americas got talent good bgt oh yeah suck,2,Very positive,0.70,1.0,0.0,0.0,0.0,0.0,0,1.00
+1782,Shubham Semwal,31/05/2021 12:40:51,vegas happens u sometimes makes way onto myspace lol really,1,positive,0.50,0.0,0.0,0.5,0.5,0.0,0,0.00
+1785,Shubham Semwal,31/05/2021 12:40:51,www bing com love video preview,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+1788,Shubham Semwal,31/05/2021 12:40:51,tickets went sale phoenix dollars new york tickets wtf look,3,negative,-0.18,0.0,0.0,0.0,0.5,0.5,0,0.50
+1789,Shubham Semwal,31/05/2021 12:40:51,updated link profile want check,0,neutral,0.00,0,0,0,0,0,0,0.00
+1793,Shubham Semwal,31/05/2021 12:40:52,midnight est gmt partners friends brain might appreciate,0,neutral,0.00,0.4,0.2,0.2,0.0,0.2,0,0.40
+1794,Shubham Semwal,31/05/2021 12:40:52,rain means cold skytrain bring sweater today plus note time work,4,Very negative,-0.60,0.0,0.0,0.33,0.33,0.33,0,0.33
+1799,Shubham Semwal,31/05/2021 12:40:53,quot listen much quot thanks sam btch driving today see running sorry,3,negative,-0.03,0.0,0.0,0.0,0.5,0.5,0,0.50
+1800,Shubham Semwal,31/05/2021 12:40:53,quot feel comfortable using legal jargon everyday life object quot elle woods lsat tomorrow,1,positive,0.13,0.25,0.0,0.0,0.0,0.75,0,0.75
+1801,Shubham Semwal,31/05/2021 12:40:53,quot felt disturbed titties going runningquot lmao oh siblings back,1,positive,0.30,0.0,0.0,0.0,0.5,0.5,0,0.50
+1803,Shubham Semwal,31/05/2021 12:40:53,quot got lot say noticed eyes always glued keeping amp makes sense quot paramore,0,neutral,0.00,0.0,0.0,0.33,0.5,0.17,3,0.50
+1804,Shubham Semwal,31/05/2021 12:40:53,quot got bangs hair quot,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1805,Shubham Semwal,31/05/2021 12:40:53,quot guess going take controlquot truer words never said thank bobby brown via ghostbusters soundtrack,0,neutral,0.00,0.0,0.2,0.4,0.2,0.2,2,0.40
+1806,Shubham Semwal,31/05/2021 12:40:53,quot long list things say ill leave amaze mequot maine,3,negative,-0.28,0.0,0.0,0.75,0.0,0.25,2,0.75
+1807,Shubham Semwal,31/05/2021 12:40:54,quot pepper sprayed entire year quot line night sleeping oh idk monday morning oh yeah amp yay chitown,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1808,Shubham Semwal,31/05/2021 12:40:54,quot meat five yearsquot quot well banana yearquot oh comdey central eliptical,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1809,Shubham Semwal,31/05/2021 12:40:54,quot hear wonderful california quot,2,Very positive,1.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1812,Shubham Semwal,31/05/2021 12:40:54,quot kno u seen alota things ur life got u feeln like cnt b right wnt hurt u im u baby quot love dis song tear,1,positive,0.39,0.17,0.0,0.17,0.33,0.33,0,0.33
+1813,Shubham Semwal,31/05/2021 12:40:54,quot know pieces fit cuz watched fall away quot schizm tool,1,positive,0.40,0.33,0.33,0.33,0.0,0.0,0,0.00
+1814,Shubham Semwal,31/05/2021 12:40:55,quot know facing recession music yall making gone make great depressionquot jay z note say goodnight,2,Very positive,0.80,0.17,0.17,0.17,0.33,0.17,3,0.33
+1815,Shubham Semwal,31/05/2021 12:40:55,quot know like know think afraid stare blink quot got nerve cyrus,4,Very negative,-0.60,0.0,0.0,0.67,0.0,0.33,2,0.67
+1816,Shubham Semwal,31/05/2021 12:40:55,quot know mean know get home quot brother driving us home dinner,3,negative,-0.31,0.0,0.0,0.25,0.5,0.25,3,0.50
+1817,Shubham Semwal,31/05/2021 12:40:55,quot leave good handsquot frozen tundra slit wrists fatal wound quot light shinequot rose like quot painquot quot quot,2,Very positive,0.57,0.5,0.0,0.0,0.0,0.5,0,0.50
+1819,Shubham Semwal,31/05/2021 12:40:55,quot like guitar quot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1821,Shubham Semwal,31/05/2021 12:40:56,quot love taxes quot oh accountant cat,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+1822,Shubham Semwal,31/05/2021 12:40:56,quot love youquot little mean much,1,positive,0.05,1.0,0.0,0.0,0.0,0.0,0,1.00
+1823,Shubham Semwal,31/05/2021 12:40:56,quot miss miss smilequot,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1825,Shubham Semwal,31/05/2021 12:40:56,quot pause oh wii haha forgot quot forgetting ownership wii,1,positive,0.20,0.0,1.0,0.0,0.0,0.0,1,1.00
+1826,Shubham Semwal,31/05/2021 12:40:56,brill remix baby one time london,0,neutral,0.00,0,0,0,0,0,0,0.00
+1828,Shubham Semwal,31/05/2021 12:40:56,trending topic anymore,0,neutral,0.00,0,0,0,0,0,0,0.00
+1830,Shubham Semwal,31/05/2021 12:40:56,youtube heineken walk fridge ai khng mu n l nh ny,0,neutral,0.00,0,0,0,0,0,0,0.00
+1831,Shubham Semwal,31/05/2021 12:40:57,peoples im finally sorry im late couldnt helped,3,negative,-0.40,0.0,0.0,0.25,0.5,0.25,3,0.50
+1832,Shubham Semwal,31/05/2021 12:40:57,states passed mobility legislation states hour rule california holdout,0,neutral,0.00,0.0,0.0,0.0,0.67,0.33,3,0.67
+1836,Shubham Semwal,31/05/2021 12:40:57,wonderful christ unfinished work praying one us stand firm,1,positive,0.40,0.0,0.0,0.2,0.0,0.8,0,0.80
+1838,Shubham Semwal,31/05/2021 12:40:57,raising funds setting london paris bike ride tomorrow please support,0,neutral,0.00,0.0,0.0,0.0,0.33,0.67,0,0.67
+1841,Shubham Semwal,31/05/2021 12:40:58,nc rides need ride pgh pa huntersville hi sane thought sh,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1842,Shubham Semwal,31/05/2021 12:40:58,forget really important,1,positive,0.40,0.33,0.33,0.33,0.0,0.0,0,0.00
+1846,Shubham Semwal,31/05/2021 12:40:58,mmmm tacos general make happy long muh belleh lt,1,positive,0.27,0.33,0.0,0.0,0.33,0.33,0,0.33
+1848,Shubham Semwal,31/05/2021 12:40:58,renewed rumored heading friday good news ratings boost possibility episode pickup,2,Very positive,0.70,0.33,0.0,0.0,0.33,0.33,0,0.33
+1849,Shubham Semwal,31/05/2021 12:40:59,omg miss watching chuck new season cant get soon enough watch reruns entire summer,1,positive,0.05,0.17,0.0,0.5,0.17,0.17,2,0.50
+1850,Shubham Semwal,31/05/2021 12:40:59,quarter brig doon owned national trust scotland wonder quarter,0,neutral,0.00,0.33,0.0,0.33,0.0,0.33,0,0.33
+1853,Shubham Semwal,31/05/2021 12:40:59,audio updown gave second time today closed webcast,3,negative,-0.05,0.5,0.0,0.0,0.0,0.5,0,0.50
+1856,Shubham Semwal,31/05/2021 12:40:59,lookin good musical entrance ridiculously long like legit min applause,1,positive,0.22,0.5,0.0,0.25,0.0,0.25,0,0.50
+1861,Shubham Semwal,31/05/2021 12:41:00,tia farrish beverwil commented photo happy mothers day wow amazing,1,positive,0.50,0.5,0.0,0.5,0.0,0.0,0,0.00
+1862,Shubham Semwal,31/05/2021 12:41:00,dominion memorial market,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1863,Shubham Semwal,31/05/2021 12:41:00,short care late taken easy way machine washed line dried think may problem,3,negative,-0.02,0.0,0.11,0.22,0.11,0.56,0,0.56
+1867,Shubham Semwal,31/05/2021 12:41:01,concert next week cancelled alternative date known yet dave gahan tumor,0,neutral,0.00,0,0,0,0,0,0,0.00
+1869,Shubham Semwal,31/05/2021 12:41:01,gography homework u know anything monaco,0,neutral,0.00,0,0,0,0,0,0,0.00
+1870,Shubham Semwal,31/05/2021 12:41:01,pull worst loose ur job loose life movie,3,negative,-0.38,0.0,0.0,0.0,0.33,0.67,0,0.67
+1873,Shubham Semwal,31/05/2021 12:41:01,fallon tonight today show friday morning check,0,neutral,0.00,0,0,0,0,0,0,0.00
+1879,Shubham Semwal,31/05/2021 12:41:02,quot beverley knight one best voices u k offer quot quot great feel good song beverley underrated quot,2,Very positive,0.83,0.4,0.0,0.2,0.0,0.4,0,0.40
+1881,Shubham Semwal,31/05/2021 12:41:02,quot blame mequot classic ear things,1,positive,0.17,0.0,0.0,1.0,0.0,0.0,2,1.00
+1883,Shubham Semwal,31/05/2021 12:41:02,quot blow candles look like solo tonightquot playback waste,3,negative,-0.20,0.0,0.0,1.0,0.0,0.0,2,1.00
+1885,Shubham Semwal,31/05/2021 12:41:02,quot book wormquot mode lets,0,neutral,0.00,0.0,0.0,0.0,0.5,0.5,0,0.50
+1886,Shubham Semwal,31/05/2021 12:41:03,quot boolprop testingcheatsenabled truequot lt lt alone makes happy bunny quot motherlodequot thats cos im greedy,2,Very positive,0.80,0.25,0.25,0.0,0.5,0.0,3,0.50
+1888,Shubham Semwal,31/05/2021 12:41:03,quot boy hate reach ppl via email respond businessmusic oh well life,4,Very negative,-0.80,0.0,0.0,0.0,0.5,0.5,0,0.50
+1891,Shubham Semwal,31/05/2021 12:41:03,quot breakevenquot script idiots,4,Very negative,-0.80,0,0,0,0,0,0,0.00
+1892,Shubham Semwal,31/05/2021 12:41:03,quot breakfastquot pm cleaning sushi,0,neutral,0.00,0,0,0,0,0,0,0.00
+1893,Shubham Semwal,31/05/2021 12:41:03,quot bruce springsteen embarks world tour quot apparently oz unworldly planet,1,positive,0.05,0.0,0.0,0.0,0.0,1.0,0,1.00
+1895,Shubham Semwal,31/05/2021 12:41:04,quot bust door take awayquot,0,neutral,0.00,0.0,0.0,1.0,0.0,0.0,2,1.00
+1896,Shubham Semwal,31/05/2021 12:41:04,quot god feel good quot another song kills omg ill kill allergies school good monday,1,positive,0.30,0.33,0.0,0.67,0.0,0.0,2,0.67
+1897,Shubham Semwal,31/05/2021 12:41:04,quot pickle jars pickle jars pickles pickles ingredients water salt cucumber garlic pickling spicesquot,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1898,Shubham Semwal,31/05/2021 12:41:04,quot sometimes see want see see want worst part see quot gnight twitterererers,4,Very negative,-1.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1901,Shubham Semwal,31/05/2021 12:41:04,quot gonn miss bare us lads recon ur easily one soundest gils farquot fuck im going miss,1,positive,0.03,0.2,0.0,0.0,0.4,0.4,0,0.40
+1905,Shubham Semwal,31/05/2021 12:41:05,quot bye twitter quot,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1907,Shubham Semwal,31/05/2021 12:41:05,quot call want sure hell sounds like kind superhero captain tightpants bs man quot,2,Very positive,0.55,0.33,0.0,0.33,0.0,0.33,0,0.33
+1909,Shubham Semwal,31/05/2021 12:41:05,quot oughta punch nose hopscotch quot gus night museum,0,neutral,0.00,0,0,0,0,0,0,0.00
+1910,Shubham Semwal,31/05/2021 12:41:05,quot see placed four orders phone take want onequot never direct credit,3,negative,-0.05,0.0,0.0,0.0,0.0,1.0,0,1.00
+1916,Shubham Semwal,31/05/2021 12:41:06,quot want action tonight satisfation night quot hopefully noelle grows dick bang tonight uhhhg,1,positive,0.10,0.0,0.0,0.0,0.0,1.0,0,1.00
+1917,Shubham Semwal,31/05/2021 12:41:06,quot want edward cullen quot dont,0,neutral,0.00,0,0,0,0,0,0,0.00
+1919,Shubham Semwal,31/05/2021 12:41:07,quot want mouth butthole b tchquot mm jeffree rawks,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1924,Shubham Semwal,31/05/2021 12:41:07,quot wonder quot fresh post,1,positive,0.30,0.0,0.0,1.0,0.0,0.0,2,1.00
+1926,Shubham Semwal,31/05/2021 12:41:08,quot id like sea octopuss garden shadequot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1928,Shubham Semwal,31/05/2021 12:41:08,quot robot robot would still called robot would dancing quot bahaaa,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1929,Shubham Semwal,31/05/2021 12:41:08,quot love business quot,1,positive,0.50,0.5,0.0,0.0,0.0,0.5,0,0.50
+1931,Shubham Semwal,31/05/2021 12:41:08,quot forever right alrightquot cough shia labeouf cough,1,positive,0.29,0.0,0.0,0.0,0.0,1.0,0,1.00
+1932,Shubham Semwal,31/05/2021 12:41:08,quot man tea incapable understanding truth beauty quot japanese proverb,0,neutral,0.00,1.0,0.0,0.0,0.0,0.0,0,1.00
+1933,Shubham Semwal,31/05/2021 12:41:08,quot one person falls reach help someone falls alone real trouble quot ecclesiastes amen god bl,3,negative,-0.30,0.0,0.0,0.4,0.6,0.0,3,0.60
+1935,Shubham Semwal,31/05/2021 12:41:09,quot someone speak ill call sign growing trouble unable grow,3,negative,-0.40,0.0,0.0,0.0,0.5,0.5,0,0.50
+1936,Shubham Semwal,31/05/2021 12:41:09,quot boy know never ever love youquot,1,positive,0.50,0.5,0.0,0.5,0.0,0.0,0,0.00
+1938,Shubham Semwal,31/05/2021 12:41:09,admitting urself u r good something im bad accounting hire pro tutor,1,positive,0.00,0.25,0.0,0.0,0.5,0.25,3,0.50
+1939,Shubham Semwal,31/05/2021 12:41:09,getting kneed head like,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1941,Shubham Semwal,31/05/2021 12:41:09,begin like music always despised usually bob dylanvan morrison starting like katy perry,3,negative,-0.12,0.0,0.5,0.0,0.5,0.0,0,0.00
+1942,Shubham Semwal,31/05/2021 12:41:09,living town bitches whilst awesome girls far away,2,Very positive,0.55,0.0,0.2,0.4,0.2,0.2,2,0.40
+1944,Shubham Semwal,31/05/2021 12:41:09,da shit want say longer characters,3,negative,-0.20,0.0,0.0,0.67,0.0,0.33,2,0.67
+1950,Shubham Semwal,31/05/2021 12:41:10,never fresh fruit house,3,negative,-0.15,0,0,0,0,0,0,0.00
+1953,Shubham Semwal,31/05/2021 12:41:11,u hella juices psex ur broad say quot nigga got done shittin u might want thatquot,1,positive,0.06,0.0,0.33,0.33,0.0,0.33,0,0.33
+1955,Shubham Semwal,31/05/2021 12:41:11,got shit real bad far home,3,negative,-0.37,0.0,0.0,0.2,0.6,0.2,3,0.60
+1957,Shubham Semwal,31/05/2021 12:41:11,painted yur nails like second later get smudged,0,neutral,0.00,0,0,0,0,0,0,0.00
+1958,Shubham Semwal,31/05/2021 12:41:11,realize milk spoiled started eating cereal,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1960,Shubham Semwal,31/05/2021 12:41:12,someone ruins everything,3,negative,-0.15,0.0,0.0,0.0,1.0,0.0,3,1.00
+1961,Shubham Semwal,31/05/2021 12:41:12,benamp jerrys half baked ice cream,3,negative,-0.17,0,0,0,0,0,0,0.00
+1962,Shubham Semwal,31/05/2021 12:41:12,filling whole page tweets log lol jk girly,1,positive,0.50,0.0,0.0,0.0,0.0,1.0,0,1.00
+1963,Shubham Semwal,31/05/2021 12:41:12,saying got mega drive birthday cool lmao,1,positive,0.47,0.33,0.0,0.33,0.0,0.33,0,0.33
+1969,Shubham Semwal,31/05/2021 12:41:13,quot see fish fish see youquot wise man,2,Very positive,0.70,0,0,0,0,0,0,0.00
+1970,Shubham Semwal,31/05/2021 12:41:13,quot give time gap grow wider move closer gap fadequot mallorys random inspiration,3,negative,-0.50,0.0,0.0,0.0,0.0,1.0,0,1.00
+1971,Shubham Semwal,31/05/2021 12:41:13,quot want great stop talking go greatquot,2,Very positive,0.80,1.0,0.0,0.0,0.0,0.0,0,1.00
+1974,Shubham Semwal,31/05/2021 12:41:13,quot ill follow please follow back quot twitter ego booster,3,negative,-0.25,0.0,0.0,0.0,1.0,0.0,3,1.00
+1977,Shubham Semwal,31/05/2021 12:41:14,quot im hustla baybay want ya know aint bout gooooquot workout sndtrk,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+1978,Shubham Semwal,31/05/2021 12:41:14,quot im stitch away making scar away falling apart quot fell asleep headphones,0,neutral,0.00,0.0,0.67,0.0,0.33,0.0,1,0.67
+1979,Shubham Semwal,31/05/2021 12:41:14,quot im freak come rescuee must paranoidquot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1981,Shubham Semwal,31/05/2021 12:41:14,quot im going find another youquot,0,neutral,0.00,0.0,0.0,0.0,0.0,1.0,0,1.00
+1983,Shubham Semwal,31/05/2021 12:41:15,quot im jake already insanequot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1985,Shubham Semwal,31/05/2021 12:41:15,quot im suppermanquot lt song cute,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+1986,Shubham Semwal,31/05/2021 12:41:15,quot im bad guy kid quot daredevil bed work,4,Very negative,-0.70,0.25,0.0,0.0,0.25,0.5,0,0.50
+1987,Shubham Semwal,31/05/2021 12:41:15,quot im boat im boat take good hard look motherfuckin boat quot grrr got song stuck head,3,negative,-0.10,0.2,0.4,0.0,0.0,0.4,0,0.40
+1988,Shubham Semwal,31/05/2021 12:41:16,quot im sick hoes actin like micros kinky twists whatever dey call quot guy last night stalking,3,negative,-0.36,0.0,0.0,0.0,1.0,0.0,3,1.00
+1989,Shubham Semwal,31/05/2021 12:41:16,quot im tired getting heart brokenquot saddest words dad ever said going bed thinking lot,3,negative,-0.40,0.0,0.14,0.43,0.29,0.14,2,0.43
+1990,Shubham Semwal,31/05/2021 12:41:16,quot im tired smiling outside im crying inside ive long time quot kate,3,negative,-0.16,0.5,0.0,0.0,0.0,0.5,0,0.50
+1991,Shubham Semwal,31/05/2021 12:41:16,quot im walking spiderwebs leave message call backquot,0,neutral,0.00,0,0,0,0,0,0,0.00
+1992,Shubham Semwal,31/05/2021 12:41:16,quot im way better sack quot quot youre way better sack quot,1,positive,0.50,0.0,0.0,0.5,0.0,0.5,0,0.50
+1993,Shubham Semwal,31/05/2021 12:41:16,quot imaginationquot floetry sexy music rip floetry,1,positive,0.50,0,0,0,0,0,0,0.00
+1995,Shubham Semwal,31/05/2021 12:41:17,quot imma boyanizer dont mess wimme quot shane lauren mcckelly miss damn much,1,positive,0.01,0.0,0.5,0.0,0.5,0.0,0,0.00
+1999,Shubham Semwal,31/05/2021 12:41:17,quot cant let music stop touch hand quot touch hand,0,neutral,0.00,0.0,0.0,0.0,1.0,0.0,3,1.00
+2005,Shubham Semwal,31/05/2021 12:41:18,quot chuck know live think get poppin quot,1,positive,0.14,0.0,0.0,1.0,0.0,0.0,2,1.00
+2009,Shubham Semwal,31/05/2021 12:41:19,quot come fly meee lets fly lets flyyyyyyyyy pack lets fly awaaay quot fs jeez miss traveling much wish tour,2,Very positive,0.65,0.0,0.0,0.0,1.0,0.0,3,1.00
+2011,Shubham Semwal,31/05/2021 12:41:19,quot common sense common quot voltaire nice one,0,neutral,0.00,0.33,0.0,0.0,0.0,0.67,0,0.67
+2013,Shubham Semwal,31/05/2021 12:41:20,quot connection problems server busy please try later quot verhindert man petitionen www zeichnemit de,1,positive,0.05,0.0,0.0,0.0,0.33,0.67,0,0.67
+2016,Shubham Semwal,31/05/2021 12:41:20,quot crazy crazy feelin lonely crazy crazy feelin blue quot,3,negative,-0.42,0.0,0.0,0.0,0.33,0.67,0,0.67
+2017,Shubham Semwal,31/05/2021 12:41:20,quot cut deal breaker quot love liz lemon,1,positive,0.50,1.0,0.0,0.0,0.0,0.0,0,1.00
+2018,Shubham Semwal,31/05/2021 12:41:21,quot cuz yall need b worried abtquot lmao lt movie miss concepts science last undergrad class,1,positive,0.30,0.0,0.0,0.33,0.67,0.0,3,0.67
+2021,Shubham Semwal,31/05/2021 12:41:21,day tomorrow amp starts late show tomorrow night sounds like tomorrow winsday,3,negative,-0.30,0.5,0.0,0.0,0.5,0.0,0,0.00
+2022,Shubham Semwal,31/05/2021 12:41:21,trending topic cool one hour microsoft kicks,1,positive,0.35,0.5,0.0,0.5,0.0,0.0,0,0.00
+2023,Shubham Semwal,31/05/2021 12:41:22,looks little deserted sure better,1,positive,0.27,0.0,0.0,0.5,0.0,0.5,0,0.50
